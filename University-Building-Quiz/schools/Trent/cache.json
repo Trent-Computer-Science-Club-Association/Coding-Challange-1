@@ -1,0 +1,503 @@
+{
+  "school_name": "Trent",
+  "game_modes": [
+    "BUILDING"
+  ],
+  "data": [
+    {
+      "entry_label": "BL 102",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata102.png"
+    },
+    {
+      "entry_label": "BL 103",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata103.png"
+    },
+    {
+      "entry_label": "BL 107.1",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata107.1.png"
+    },
+    {
+      "entry_label": "BL 107.2",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata107.2.png"
+    },
+    {
+      "entry_label": "BL 201",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata201.png"
+    },
+    {
+      "entry_label": "BL 210",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata210.png"
+    },
+    {
+      "entry_label": "BL 314",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata314.png"
+    },
+    {
+      "entry_label": "BL 401",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata401.png"
+    },
+    {
+      "entry_label": "BL 402",
+      "entry_category": "Bata Library",
+      "entry_image": "/schools/Trent/images/bata402.png"
+    },
+    {
+      "entry_label": "B!ke",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/bike5.png"
+    },
+    {
+      "entry_label": "CCN G4",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCNG4.png"
+    },
+    {
+      "entry_label": "CCN I1",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCNI1.png"
+    },
+    {
+      "entry_label": "CCN I2",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCNI2.png"
+    },
+    {
+      "entry_label": "CCN K1",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCNK1.png"
+    },
+    {
+      "entry_label": "CCN M2",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCNM2.png"
+    },
+    {
+      "entry_label": "CCS 307",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCS307.png"
+    },
+    {
+      "entry_label": "CCW A1",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCWA1.png"
+    },
+    {
+      "entry_label": "CCW A2",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCWA2.png"
+    },
+    {
+      "entry_label": "CCW C3",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/CCWC3.png"
+    },
+    {
+      "entry_label": "Seasoned Spoon",
+      "entry_category": "Champlain College",
+      "entry_image": "/schools/Trent/images/seasonedspoon4.png"
+    },
+    {
+      "entry_label": "CSB D101",
+      "entry_category": "Chemical Science",
+      "entry_image": "/schools/Trent/images/CSBD101.png"
+    },
+    {
+      "entry_label": "CSB D109",
+      "entry_category": "Chemical Science",
+      "entry_image": "/schools/Trent/images/CSBD109.png"
+    },
+    {
+      "entry_label": "CSB D113",
+      "entry_category": "Chemical Science",
+      "entry_image": "/schools/Trent/images/CSBD113.png"
+    },
+    {
+      "entry_label": "CSB D116",
+      "entry_category": "Chemical Science",
+      "entry_image": "/schools/Trent/images/CSBD116.png"
+    },
+    {
+      "entry_label": "CSB E101",
+      "entry_category": "Chemical Science",
+      "entry_image": "/schools/Trent/images/CSBE101.png"
+    },
+    {
+      "entry_label": "CSB E103",
+      "entry_category": "Chemical Science",
+      "entry_image": "/schools/Trent/images/CSBE103.png"
+    },
+    {
+      "entry_label": "DNA B110.1",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAB110.1.png"
+    },
+    {
+      "entry_label": "DNA B110.2",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAB110.2.png"
+    },
+    {
+      "entry_label": "DNA B104",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAB104.png"
+    },
+    {
+      "entry_label": "DNA B105",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAB105.png"
+    },
+    {
+      "entry_label": "DNA B113",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAB113.png"
+    },
+    {
+      "entry_label": "DNA C141",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAC141.png"
+    },
+    {
+      "entry_label": "DNA C142",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAC142.png"
+    },
+    {
+      "entry_label": "DNA C215",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAC215.png"
+    },
+    {
+      "entry_label": "DNA C231",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAC231.png"
+    },
+    {
+      "entry_label": "DNA C233",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAC233.png"
+    },
+    {
+      "entry_label": "DNA D103",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAD103.png"
+    },
+    {
+      "entry_label": "DNA D105",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAD105.png"
+    },
+    {
+      "entry_label": "DNA D106",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAD106.png"
+    },
+    {
+      "entry_label": "DNA D108",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAD108.png"
+    },
+    {
+      "entry_label": "DNA D202",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAD202.png"
+    },
+    {
+      "entry_label": "DNA D208",
+      "entry_category": "DNA Building",
+      "entry_image": "/schools/Trent/images/DNAD208.png"
+    },
+    {
+      "entry_label": "ECC 201",
+      "entry_category": "Lady Eaton College",
+      "entry_image": "/schools/Trent/images/ECC201.png"
+    },
+    {
+      "entry_label": "ECC 207",
+      "entry_category": "Lady Eaton College",
+      "entry_image": "/schools/Trent/images/ECC207.png"
+    },
+    {
+      "entry_label": "ECC 208",
+      "entry_category": "Lady Eaton College",
+      "entry_image": "/schools/Trent/images/ECC208.png"
+    },
+    {
+      "entry_label": "ECC 212",
+      "entry_category": "Lady Eaton College",
+      "entry_image": "/schools/Trent/images/ECC212.png"
+    },
+    {
+      "entry_label": "ESC A202",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/ESCA202.png"
+    },
+    {
+      "entry_label": "ESC A205",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/ESCA205.png"
+    },
+    {
+      "entry_label": "ESC B203",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/ESCB203.png"
+    },
+    {
+      "entry_label": "ESC B305",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/ESCB305.png"
+    },
+    {
+      "entry_label": "ESC B305.1",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/enviroscience30.png"
+    },
+    {
+      "entry_label": "ESC B319",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/ESCB319.png"
+    },
+    {
+      "entry_label": "ESC C111.3",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/ESCC111.3.png"
+    },
+    {
+      "entry_label": "ESC C202",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/ESCC202.png"
+    },
+    {
+      "entry_label": "ESC C205",
+      "entry_category": "Environmental Science Center",
+      "entry_image": "/schools/Trent/images/ESCC205.png"
+    },
+    {
+      "entry_label": "FPHL 101",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/FPHL101.png"
+    },
+    {
+      "entry_label": "FPHL 117",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/FPHL117.png"
+    },
+    {
+      "entry_label": "GCS 103",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS103-2.png"
+    },
+    {
+      "entry_label": "GCS 105",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS105-3.png"
+    },
+    {
+      "entry_label": "GCS 106",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS106-3.png"
+    },
+    {
+      "entry_label": "GCS 108",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS108-3.png"
+    },
+    {
+      "entry_label": "GCS 110",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS110-2.png"
+    },
+    {
+      "entry_label": "GCS 111",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS111-2.png"
+    },
+    {
+      "entry_label": "GCS 112",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS112-2.png"
+    },
+    {
+      "entry_label": "GCS 114",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS114.png"
+    },
+    {
+      "entry_label": "GCS 115",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS115-2.png"
+    },
+    {
+      "entry_label": "GCS 345",
+      "entry_category": "Gzowski College",
+      "entry_image": "/schools/Trent/images/GCS345.png"
+    },
+    {
+      "entry_label": "OCA W101.2",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCAW101.2.png"
+    },
+    {
+      "entry_label": "OCA 109",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA109.png"
+    },
+    {
+      "entry_label": "OCA 128",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA128.png"
+    },
+    {
+      "entry_label": "OCA 134",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA134.png"
+    },
+    {
+      "entry_label": "OCA 143",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA143.png"
+    },
+    {
+      "entry_label": "OCA 171",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA171.png"
+    },
+    {
+      "entry_label": "OCA 203",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA203.png"
+    },
+    {
+      "entry_label": "OCA 204",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA204.png"
+    },
+    {
+      "entry_label": "OCA 205",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA205.png"
+    },
+    {
+      "entry_label": "OCA 206",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA206.png"
+    },
+    {
+      "entry_label": "OCA 207",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA207.png"
+    },
+    {
+      "entry_label": "OCA 208",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA208.png"
+    },
+    {
+      "entry_label": "OCA 219",
+      "entry_category": "Otonabee College",
+      "entry_image": "/schools/Trent/images/OCA219.png"
+    },
+    {
+      "entry_label": "SC 103",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC103-2.png"
+    },
+    {
+      "entry_label": "SC 115",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC115.png"
+    },
+    {
+      "entry_label": "SC 128",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC128.png"
+    },
+    {
+      "entry_label": "SC 137",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC137-2.png"
+    },
+    {
+      "entry_label": "SC 203",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC203.png"
+    },
+    {
+      "entry_label": "SC 208",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC208.png"
+    },
+    {
+      "entry_label": "SC 215",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC215.png"
+    },
+    {
+      "entry_label": "SC 305",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC305.png"
+    },
+    {
+      "entry_label": "SC 317",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SC317.png"
+    },
+    {
+      "entry_label": "SC W1",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SCW1W2.png"
+    },
+    {
+      "entry_label": "SC W2",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SCW1W2.png"
+    },
+    {
+      "entry_label": "SC W3",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SCW3W4.png"
+    },
+    {
+      "entry_label": "SC W4",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Trent/images/SCW3W4.png"
+    },
+    {
+      "entry_label": "CH 102",
+      "entry_category": "Crawford House",
+      "entry_image": "/schools/Trent/images/CH102.png"
+    },
+    {
+      "entry_label": "SH 102.1",
+      "entry_category": "Scott House",
+      "entry_image": "/schools/Trent/images/SC.png"
+    },
+    {
+      "entry_label": "SH 105",
+      "entry_category": "Scott House",
+      "entry_image": "/schools/Trent/images/SC.png"
+    },
+    {
+      "entry_label": "TC 101",
+      "entry_category": "Bagnani Hall",
+      "entry_image": "/schools/Trent/images/TC101.png"
+    },
+    {
+      "entry_label": "WH 102",
+      "entry_category": "Wallis Hall",
+      "entry_image": "/schools/Trent/images/WH.png"
+    },
+    {
+      "entry_label": "WH 128",
+      "entry_category": "Wallis Hall",
+      "entry_image": "/schools/Trent/images/WH.png"
+    }
+  ]
+}

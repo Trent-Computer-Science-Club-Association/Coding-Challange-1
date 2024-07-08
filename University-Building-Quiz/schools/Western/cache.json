@@ -1,0 +1,1018 @@
+{
+  "school_name": "Western",
+  "game_modes": [
+    "BUILDING"
+  ],
+  "data": [
+    {
+      "entry_label": "3M 3250",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Western/images/3mcenter3250.png"
+    },
+    {
+      "entry_label": "AH 101",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Western/images/alumni101.png"
+    },
+    {
+      "entry_label": "BGS 153",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Western/images/biogiosci0153.png"
+    },
+    {
+      "entry_label": "BGS 165",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Western/images/biogiosci0165.png"
+    },
+    {
+      "entry_label": "BGS 1056",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Western/images/biogioscI1056.png"
+    },
+    {
+      "entry_label": "CHB 9",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Western/images/chemistry09.png"
+    },
+    {
+      "entry_label": "EC 2130",
+      "entry_category": "Elborn College",
+      "entry_image": "/schools/Western/images/elborn2130.png"
+    },
+    {
+      "entry_label": "EC 2155",
+      "entry_category": "Elborn College",
+      "entry_image": "/schools/Western/images/elborn2155.png"
+    },
+    {
+      "entry_label": "EC 2168A",
+      "entry_category": "Elborn College",
+      "entry_image": "/schools/Western/images/elborn2168A.png"
+    },
+    {
+      "entry_label": "EC 2168B",
+      "entry_category": "Elborn College",
+      "entry_image": "/schools/Western/images/elborn2168B.png"
+    },
+    {
+      "entry_label": "HSB 9",
+      "entry_category": "Health Sciences",
+      "entry_image": "/schools/Western/images/healthsci09.png"
+    },
+    {
+      "entry_label": "HSB 11",
+      "entry_category": "Health Sciences",
+      "entry_image": "/schools/Western/images/healthsci011.png"
+    },
+    {
+      "entry_label": "HSB 35",
+      "entry_category": "Health Sciences",
+      "entry_image": "/schools/Western/images/healthsci035.png"
+    },
+    {
+      "entry_label": "HSB 40",
+      "entry_category": "Health Sciences",
+      "entry_image": "/schools/Western/images/healthsci040.png"
+    },
+    {
+      "entry_label": "HSB 236",
+      "entry_category": "Health Sciences",
+      "entry_image": "/schools/Western/images/healthsci236.png"
+    },
+    {
+      "entry_label": "HSB 240",
+      "entry_category": "Health Sciences",
+      "entry_image": "/schools/Western/images/healthsci240.png"
+    },
+    {
+      "entry_label": "KB 103",
+      "entry_category": "Kresge",
+      "entry_image": "/schools/Western/images/kresge103.png"
+    },
+    {
+      "entry_label": "KB 106",
+      "entry_category": "Kresge",
+      "entry_image": "/schools/Western/images/kresge106.png"
+    },
+    {
+      "entry_label": "KB 203",
+      "entry_category": "Kresge",
+      "entry_image": "/schools/Western/images/kresge203.png"
+    },
+    {
+      "entry_label": "KB 208",
+      "entry_category": "Kresge",
+      "entry_image": "/schools/Western/images/kresge208.png"
+    },
+    {
+      "entry_label": "LH 2205",
+      "entry_category": "Lawson Hall",
+      "entry_image": "/schools/Western/images/lawson2205.png"
+    },
+    {
+      "entry_label": "LH 2210",
+      "entry_category": "Lawson Hall",
+      "entry_image": "/schools/Western/images/lawson2210.png"
+    },
+    {
+      "entry_label": "MC 6",
+      "entry_category": "Middlesex College",
+      "entry_image": "/schools/Western/images/middlesex06.png"
+    },
+    {
+      "entry_label": "MC 17",
+      "entry_category": "Middlesex College",
+      "entry_image": "/schools/Western/images/middlesex017.png"
+    },
+    {
+      "entry_label": "MC 105B",
+      "entry_category": "Middlesex College",
+      "entry_image": "/schools/Western/images/middlesex105B.png"
+    },
+    {
+      "entry_label": "MC 110",
+      "entry_category": "Middlesex College",
+      "entry_image": "/schools/Western/images/middlesex110.png"
+    },
+    {
+      "entry_label": "MC 230",
+      "entry_category": "Middlesex College",
+      "entry_image": "/schools/Western/images/middlesex230.png"
+    },
+    {
+      "entry_label": "MC 235",
+      "entry_category": "Middlesex College",
+      "entry_image": "/schools/Western/images/middlesex235.png"
+    },
+    {
+      "entry_label": "NCB 101",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus101.png"
+    },
+    {
+      "entry_label": "NCB 113",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus113.png"
+    },
+    {
+      "entry_label": "NCB 114",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus114.png"
+    },
+    {
+      "entry_label": "NCB 117",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus117.png"
+    },
+    {
+      "entry_label": "NCB 285",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus285.png"
+    },
+    {
+      "entry_label": "NCB 293",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus293.png"
+    },
+    {
+      "entry_label": "NCB 295",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus295.png"
+    },
+    {
+      "entry_label": "NCB 296",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus296.png"
+    },
+    {
+      "entry_label": "NCB 325",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus325.png"
+    },
+    {
+      "entry_label": "NCB 330",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus330.png"
+    },
+    {
+      "entry_label": "NCB 331",
+      "entry_category": "North Campus",
+      "entry_image": "/schools/Western/images/northcampus331.png"
+    },
+    {
+      "entry_label": "NSC 1",
+      "entry_category": "Natural Sciences Centre",
+      "entry_image": "/schools/Western/images/naturalsci01.png"
+    },
+    {
+      "entry_label": "NSC 7",
+      "entry_category": "Natural Sciences Centre",
+      "entry_image": "/schools/Western/images/naturalsci07.png"
+    },
+    {
+      "entry_label": "NSC 145",
+      "entry_category": "Natural Sciences Centre",
+      "entry_image": "/schools/Western/images/naturalsci145.png"
+    },
+    {
+      "entry_label": "SEB 1056",
+      "entry_category": "Spencer Engineering",
+      "entry_image": "/schools/Western/images/spencer1056.png"
+    },
+    {
+      "entry_label": "SEB 1059",
+      "entry_category": "Spencer Engineering",
+      "entry_image": "/schools/Western/images/spencer1059.png"
+    },
+    {
+      "entry_label": "SEB 1200",
+      "entry_category": "Spencer Engineering",
+      "entry_image": "/schools/Western/images/spencer1200.png"
+    },
+    {
+      "entry_label": "SEB 2099",
+      "entry_category": "Spencer Engineering",
+      "entry_image": "/schools/Western/images/spencer2099.png"
+    },
+    {
+      "entry_label": "SEB 2100",
+      "entry_category": "Spencer Engineering",
+      "entry_image": "/schools/Western/images/spencer2100.png"
+    },
+    {
+      "entry_label": "SEB 2200",
+      "entry_category": "Spencer Engineering",
+      "entry_image": "/schools/Western/images/spencer2200.png"
+    },
+    {
+      "entry_label": "SEB 2202",
+      "entry_category": "Spencer Engineering",
+      "entry_image": "/schools/Western/images/spencer2202.png"
+    },
+    {
+      "entry_label": "SH 2316",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville2316.png"
+    },
+    {
+      "entry_label": "SH 2317",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville2317.png"
+    },
+    {
+      "entry_label": "SH 2355",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville2355.png"
+    },
+    {
+      "entry_label": "SH 3305",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville3305.png"
+    },
+    {
+      "entry_label": "SH 3307",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville3307.png"
+    },
+    {
+      "entry_label": "SH 3315",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville3315.png"
+    },
+    {
+      "entry_label": "SH 3317",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville3317.png"
+    },
+    {
+      "entry_label": "SH 3345",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville3345.png"
+    },
+    {
+      "entry_label": "SH 3350",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville3350.png"
+    },
+    {
+      "entry_label": "SH 3355",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville3355.png"
+    },
+    {
+      "entry_label": "SH 3359",
+      "entry_category": "Somerville House",
+      "entry_image": "/schools/Western/images/somerville3359.png"
+    },
+    {
+      "entry_label": "SSC 2020",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci2020.png"
+    },
+    {
+      "entry_label": "SSC 2024",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci2024.png"
+    },
+    {
+      "entry_label": "SSC 2028",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci2028.png"
+    },
+    {
+      "entry_label": "SSC 2032",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci2032.png"
+    },
+    {
+      "entry_label": "SSC 2036",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci2036.png"
+    },
+    {
+      "entry_label": "SSC 2050",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci2050.png"
+    },
+    {
+      "entry_label": "SSC 2333",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci2333.png"
+    },
+    {
+      "entry_label": "SSC 3006",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci28.png"
+    },
+    {
+      "entry_label": "SSC 3010",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3010.png"
+    },
+    {
+      "entry_label": "SSC 3014",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3014.png"
+    },
+    {
+      "entry_label": "SSC 3018",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3018.png"
+    },
+    {
+      "entry_label": "SSC 3022",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3022.png"
+    },
+    {
+      "entry_label": "SSC 3024",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3024.png"
+    },
+    {
+      "entry_label": "SSC 3026",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3026.png"
+    },
+    {
+      "entry_label": "SSC 3028",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3028.png"
+    },
+    {
+      "entry_label": "SSC 3036",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3036.png"
+    },
+    {
+      "entry_label": "SSC 3120",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3120.png"
+    },
+    {
+      "entry_label": "SSC 3133",
+      "entry_category": "Social Science Centre",
+      "entry_image": "/schools/Western/images/socialsci3133.png"
+    },
+    {
+      "entry_label": "STVH 1119",
+      "entry_category": "Stevenson Hall",
+      "entry_image": "/schools/Western/images/stevenson1119.png"
+    },
+    {
+      "entry_label": "STVH 1155",
+      "entry_category": "Stevenson Hall",
+      "entry_image": "/schools/Western/images/stevenson1155.png"
+    },
+    {
+      "entry_label": "STVH 1157",
+      "entry_category": "Stevenson Hall",
+      "entry_image": "/schools/Western/images/stevenson1157.png"
+    },
+    {
+      "entry_label": "STVH 2166",
+      "entry_category": "Stevenson Hall",
+      "entry_image": "/schools/Western/images/stevenson2166.png"
+    },
+    {
+      "entry_label": "STVH 3101",
+      "entry_category": "Stevenson Hall",
+      "entry_image": "/schools/Western/images/stevenson3101.png"
+    },
+    {
+      "entry_label": "STVH 3166",
+      "entry_category": "Stevenson Hall",
+      "entry_image": "/schools/Western/images/stevenson3166.png"
+    },
+    {
+      "entry_label": "TC 141",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/TC141.png"
+    },
+    {
+      "entry_label": "TC 201",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/TC201.png"
+    },
+    {
+      "entry_label": "TC 202",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/TC202.png"
+    },
+    {
+      "entry_label": "TC 203",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/TC203.png"
+    },
+    {
+      "entry_label": "TC 204",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/TC204.png"
+    },
+    {
+      "entry_label": "TC 205",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/TC205.png"
+    },
+    {
+      "entry_label": "TC 303",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/talbot303.png"
+    },
+    {
+      "entry_label": "TC 304",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/talbot304.png"
+    },
+    {
+      "entry_label": "TC 309",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/talbot309.png"
+    },
+    {
+      "entry_label": "TC 341",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/TC341.png"
+    },
+    {
+      "entry_label": "TC 343",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/talbot343.png"
+    },
+    {
+      "entry_label": "TC 344",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/talbot344.png"
+    },
+    {
+      "entry_label": "TC 345",
+      "entry_category": "Talbot College",
+      "entry_image": "/schools/Western/images/TC345.png"
+    },
+    {
+      "entry_label": "TH 3101",
+      "entry_category": "Thames Hall",
+      "entry_image": "/schools/Western/images/thames3101.png"
+    },
+    {
+      "entry_label": "TH 3102",
+      "entry_category": "Thames Hall",
+      "entry_image": "/schools/Western/images/thames3102.png"
+    },
+    {
+      "entry_label": "TH 3159",
+      "entry_category": "Thames Hall",
+      "entry_image": "/schools/Western/images/thames3159.png"
+    },
+    {
+      "entry_label": "TH 4185",
+      "entry_category": "Thames Hall",
+      "entry_image": "/schools/Western/images/thames4185.png"
+    },
+    {
+      "entry_label": "UC 2",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university02.png"
+    },
+    {
+      "entry_label": "UC 30",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university030.png"
+    },
+    {
+      "entry_label": "UC 137",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university137.png"
+    },
+    {
+      "entry_label": "UC 142",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university142.png"
+    },
+    {
+      "entry_label": "UC 186",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university186.png"
+    },
+    {
+      "entry_label": "UC 188",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university188.png"
+    },
+    {
+      "entry_label": "UC 201",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university201.png"
+    },
+    {
+      "entry_label": "UC 202",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university202.png"
+    },
+    {
+      "entry_label": "UC 203",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university203.png"
+    },
+    {
+      "entry_label": "UC 204",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university204.png"
+    },
+    {
+      "entry_label": "UC 205",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university205.png"
+    },
+    {
+      "entry_label": "UC 207",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university207.png"
+    },
+    {
+      "entry_label": "UC 212",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university212.png"
+    },
+    {
+      "entry_label": "UC 213",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university213.png"
+    },
+    {
+      "entry_label": "UC 220",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university220.png"
+    },
+    {
+      "entry_label": "UC 222",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university222.png"
+    },
+    {
+      "entry_label": "UC 282",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university282.png"
+    },
+    {
+      "entry_label": "UC 286",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university286.png"
+    },
+    {
+      "entry_label": "UC 287",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university287.png"
+    },
+    {
+      "entry_label": "UC 289",
+      "entry_category": "University College",
+      "entry_image": "/schools/Western/images/university289.png"
+    },
+    {
+      "entry_label": "UCC 37",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community037.png"
+    },
+    {
+      "entry_label": "UCC 41",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community41.png"
+    },
+    {
+      "entry_label": "UCC 53",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community53.png"
+    },
+    {
+      "entry_label": "UCC 54A",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community54A.png"
+    },
+    {
+      "entry_label": "UCC 54B",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community54B.png"
+    },
+    {
+      "entry_label": "UCC 56",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community56.png"
+    },
+    {
+      "entry_label": "UCC 58",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community58.png"
+    },
+    {
+      "entry_label": "UCC 59",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community59.png"
+    },
+    {
+      "entry_label": "UCC 60",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community60.png"
+    },
+    {
+      "entry_label": "UCC 61",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community61.png"
+    },
+    {
+      "entry_label": "UCC 63",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community63.png"
+    },
+    {
+      "entry_label": "UCC 65",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community65.png"
+    },
+    {
+      "entry_label": "UCC 66",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community66.png"
+    },
+    {
+      "entry_label": "UCC 67",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community67.png"
+    },
+    {
+      "entry_label": "UCC 146",
+      "entry_category": "University Community Ctr",
+      "entry_image": "/schools/Western/images/community146-extra.png"
+    },
+    {
+      "entry_label": "VAC 100",
+      "entry_category": "Visual Arts Centre",
+      "entry_image": "/schools/Western/images/visual100.png"
+    },
+    {
+      "entry_label": "VAC 148",
+      "entry_category": "Visual Arts Centre",
+      "entry_image": "/schools/Western/images/visual148.png"
+    },
+    {
+      "entry_label": "VAC 206",
+      "entry_category": "Visual Arts Centre",
+      "entry_image": "/schools/Western/images/visual206.png"
+    },
+    {
+      "entry_label": "VAC 247",
+      "entry_category": "Visual Arts Centre",
+      "entry_image": "/schools/Western/images/visual247.png"
+    },
+    {
+      "entry_label": "VAC 249",
+      "entry_category": "Visual Arts Centre",
+      "entry_image": "/schools/Western/images/visual249.png"
+    },
+    {
+      "entry_label": "WL 257",
+      "entry_category": "Weldon Library",
+      "entry_image": "/schools/Western/images/weldon257.png"
+    },
+    {
+      "entry_label": "WL 258",
+      "entry_category": "Weldon Library",
+      "entry_image": "/schools/Western/images/weldon258.png"
+    },
+    {
+      "entry_label": "WL 259",
+      "entry_category": "Weldon Library",
+      "entry_image": "/schools/Western/images/weldon259.png"
+    },
+    {
+      "entry_label": "WSC 55",
+      "entry_category": "Western Science Centre",
+      "entry_image": "/schools/Western/images/westernsci55.png"
+    },
+    {
+      "entry_label": "WSC 240",
+      "entry_category": "Western Science Centre",
+      "entry_image": "/schools/Western/images/westernsci240.png"
+    },
+    {
+      "entry_label": "BRE 14",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia014.png"
+    },
+    {
+      "entry_label": "BRE 18",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia018.png"
+    },
+    {
+      "entry_label": "BRE 19",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia019.png"
+    },
+    {
+      "entry_label": "BRE 135",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia135.png"
+    },
+    {
+      "entry_label": "BRE 136",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia136.png"
+    },
+    {
+      "entry_label": "BRE 201",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia201.png"
+    },
+    {
+      "entry_label": "BRE 202",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia202.png"
+    },
+    {
+      "entry_label": "BRE 203",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia203.png"
+    },
+    {
+      "entry_label": "BRE 204",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia204.png"
+    },
+    {
+      "entry_label": "BRE 301",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia301.png"
+    },
+    {
+      "entry_label": "BRE 302",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia302.png"
+    },
+    {
+      "entry_label": "BRE 303",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia303.png"
+    },
+    {
+      "entry_label": "BRE 304",
+      "entry_category": "Brescia College",
+      "entry_image": "/schools/Western/images/brescia304.png"
+    },
+    {
+      "entry_label": "HU A1",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronA1.png"
+    },
+    {
+      "entry_label": "HU V207",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronv207.png"
+    },
+    {
+      "entry_label": "HU V208",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronv208.png"
+    },
+    {
+      "entry_label": "HU V209",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronv209.png"
+    },
+    {
+      "entry_label": "HU V210",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronv210.png"
+    },
+    {
+      "entry_label": "HU V214",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronv214.png"
+    },
+    {
+      "entry_label": "HU W4",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw4.png"
+    },
+    {
+      "entry_label": "HU W6",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw6.png"
+    },
+    {
+      "entry_label": "HU W8",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw8.png"
+    },
+    {
+      "entry_label": "HU W101",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw101.png"
+    },
+    {
+      "entry_label": "HU W102",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw102.png"
+    },
+    {
+      "entry_label": "HU W103",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw103.png"
+    },
+    {
+      "entry_label": "HU W104",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw104.png"
+    },
+    {
+      "entry_label": "HU W106",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw106.png"
+    },
+    {
+      "entry_label": "HU W108",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw108.png"
+    },
+    {
+      "entry_label": "HU W112",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw112.png"
+    },
+    {
+      "entry_label": "HU W116",
+      "entry_category": "Huron College",
+      "entry_image": "/schools/Western/images/huronw116.png"
+    },
+    {
+      "entry_label": "BH 102",
+      "entry_category": "Broughdale Hall",
+      "entry_image": "/schools/Western/images/bh102.png"
+    },
+    {
+      "entry_label": "BH 103",
+      "entry_category": "Broughdale Hall",
+      "entry_image": "/schools/Western/images/bh103.png"
+    },
+    {
+      "entry_label": "BH 107",
+      "entry_category": "Broughdale Hall",
+      "entry_image": "/schools/Western/images/bh107.png"
+    },
+    {
+      "entry_label": "BH 109",
+      "entry_category": "Broughdale Hall",
+      "entry_image": "/schools/Western/images/bh109.png"
+    },
+    {
+      "entry_label": "BH 112",
+      "entry_category": "Broughdale Hall",
+      "entry_image": "/schools/Western/images/bh112.png"
+    },
+    {
+      "entry_label": "DL 6",
+      "entry_category": "Dante Hall",
+      "entry_image": "/schools/Western/images/dl006.png"
+    },
+    {
+      "entry_label": "DL 12",
+      "entry_category": "Dante Hall",
+      "entry_image": "/schools/Western/images/dl012.png"
+    },
+    {
+      "entry_label": "DL 114",
+      "entry_category": "Dante Hall",
+      "entry_image": "/schools/Western/images/DL114.png"
+    },
+    {
+      "entry_label": "DL 130",
+      "entry_category": "Dante Hall",
+      "entry_image": "/schools/Western/images/dl130.png"
+    },
+    {
+      "entry_label": "FB 3",
+      "entry_category": "Faculty Building",
+      "entry_image": "/schools/Western/images/fb003.png"
+    },
+    {
+      "entry_label": "FB 110",
+      "entry_category": "Faculty Building",
+      "entry_image": "/schools/Western/images/fb110.png"
+    },
+    {
+      "entry_label": "LH 100",
+      "entry_category": "Labatt Hall",
+      "entry_image": "/schools/Western/images/lh100.png"
+    },
+    {
+      "entry_label": "LH 101",
+      "entry_category": "Labatt Hall",
+      "entry_image": "/schools/Western/images/lh101.png"
+    },
+    {
+      "entry_label": "LH 103",
+      "entry_category": "Labatt Hall",
+      "entry_image": "/schools/Western/images/lh103.png"
+    },
+    {
+      "entry_label": "LH 105A",
+      "entry_category": "Labatt Hall",
+      "entry_image": "/schools/Western/images/lh105A.png"
+    },
+    {
+      "entry_label": "LH 105B",
+      "entry_category": "Labatt Hall",
+      "entry_image": "/schools/Western/images/lh105B.png"
+    },
+    {
+      "entry_label": "LH 105C",
+      "entry_category": "Labatt Hall",
+      "entry_image": "/schools/Western/images/lh105C.png"
+    },
+    {
+      "entry_label": "WH 146",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW146.png"
+    },
+    {
+      "entry_label": "WH 147",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW147.png"
+    },
+    {
+      "entry_label": "WH 148",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW148.png"
+    },
+    {
+      "entry_label": "WH 166",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW166.png"
+    },
+    {
+      "entry_label": "WH 173",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW173.png"
+    },
+    {
+      "entry_label": "WH 174",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW174.png"
+    },
+    {
+      "entry_label": "WH 175",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW175.png"
+    },
+    {
+      "entry_label": "WH 176",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW176.png"
+    },
+    {
+      "entry_label": "WH 178",
+      "entry_category": "Wemple Hall",
+      "entry_image": "/schools/Western/images/wempleW178.png"
+    }
+  ]
+}

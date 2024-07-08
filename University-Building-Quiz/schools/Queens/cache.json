@@ -1,0 +1,743 @@
+{
+  "school_name": "Queens",
+  "game_modes": [
+    "BUILDING"
+  ],
+  "data": [
+    {
+      "entry_label": "BIO 1101",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Queens/images/biosci1101.png"
+    },
+    {
+      "entry_label": "BIO 1102",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Queens/images/biosci1102.png"
+    },
+    {
+      "entry_label": "BIO 1103",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Queens/images/biosci1103.png"
+    },
+    {
+      "entry_label": "BIO 1120",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Queens/images/biosci1120.png"
+    },
+    {
+      "entry_label": "BIO 2109",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Queens/images/biosci2109.png"
+    },
+    {
+      "entry_label": "BIO 2111",
+      "entry_category": "Biosciences Complex",
+      "entry_image": "/schools/Queens/images/biosci2111.png"
+    },
+    {
+      "entry_label": "BOT 129",
+      "entry_category": "Botterell Hall",
+      "entry_image": "/schools/Queens/images/botterell129.png"
+    },
+    {
+      "entry_label": "BOT 139",
+      "entry_category": "Botterell Hall",
+      "entry_image": "/schools/Queens/images/botterell139.png"
+    },
+    {
+      "entry_label": "BOT 143",
+      "entry_category": "Botterell Hall",
+      "entry_image": "/schools/Queens/images/botterell143.png"
+    },
+    {
+      "entry_label": "BOT 147",
+      "entry_category": "Botterell Hall",
+      "entry_image": "/schools/Queens/images/botterell147.png"
+    },
+    {
+      "entry_label": "BOT 148",
+      "entry_category": "Botterell Hall",
+      "entry_image": "/schools/Queens/images/botterell148.png"
+    },
+    {
+      "entry_label": "CAT 207",
+      "entry_category": "Cataraqui",
+      "entry_image": "/schools/Queens/images/cataraqui207.png"
+    },
+    {
+      "entry_label": "CHE AUD",
+      "entry_category": "Chernoff Hall",
+      "entry_image": "/schools/Queens/images/chernoffaud.png"
+    },
+    {
+      "entry_label": "CHE 117",
+      "entry_category": "Chernoff Hall",
+      "entry_image": "/schools/Queens/images/chernoff117.png"
+    },
+    {
+      "entry_label": "CHE 211",
+      "entry_category": "Chernoff Hall",
+      "entry_image": "/schools/Queens/images/chernoff211.png"
+    },
+    {
+      "entry_label": "CHE 213",
+      "entry_category": "Chernoff Hall",
+      "entry_image": "/schools/Queens/images/chernoff213.png"
+    },
+    {
+      "entry_label": "DUN 10",
+      "entry_category": "Dunning Hall",
+      "entry_image": "/schools/Queens/images/dunn10.png"
+    },
+    {
+      "entry_label": "DUN 11",
+      "entry_category": "Dunning Hall",
+      "entry_image": "/schools/Queens/images/dunn11.png"
+    },
+    {
+      "entry_label": "DUN 12",
+      "entry_category": "Dunning Hall",
+      "entry_image": "/schools/Queens/images/dunn12.png"
+    },
+    {
+      "entry_label": "DUN 14",
+      "entry_category": "Dunning Hall",
+      "entry_image": "/schools/Queens/images/dunn14.png"
+    },
+    {
+      "entry_label": "DUN 20",
+      "entry_category": "Dunning Hall",
+      "entry_image": "/schools/Queens/images/dunn20.png"
+    },
+    {
+      "entry_label": "DUN 27",
+      "entry_category": "Dunning Hall",
+      "entry_image": "/schools/Queens/images/dunn27.png"
+    },
+    {
+      "entry_label": "DUP AUD",
+      "entry_category": "Dupuis Hall",
+      "entry_image": "/schools/Queens/images/dupuis3.png"
+    },
+    {
+      "entry_label": "DUP 215",
+      "entry_category": "Dupuis Hall",
+      "entry_image": "/schools/Queens/images/dupuis215.png"
+    },
+    {
+      "entry_label": "DUP 217",
+      "entry_category": "Dupuis Hall",
+      "entry_image": "/schools/Queens/images/dupuis217.png"
+    },
+    {
+      "entry_label": "ELS 152",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis152.png"
+    },
+    {
+      "entry_label": "ELS 218",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis218.png"
+    },
+    {
+      "entry_label": "ELS 224",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis224.png"
+    },
+    {
+      "entry_label": "ELS 226",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis226.png"
+    },
+    {
+      "entry_label": "ELS 319",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis319.png"
+    },
+    {
+      "entry_label": "ELS 321",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis321.png"
+    },
+    {
+      "entry_label": "ELS 323",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis323.png"
+    },
+    {
+      "entry_label": "ELS 324",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis324.png"
+    },
+    {
+      "entry_label": "ELS 327",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis327.png"
+    },
+    {
+      "entry_label": "ELS 332",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis332.png"
+    },
+    {
+      "entry_label": "ELS 333",
+      "entry_category": "Ellis Hall",
+      "entry_image": "/schools/Queens/images/ellis333.png"
+    },
+    {
+      "entry_label": "ETR AUD",
+      "entry_category": "Etherington Hall",
+      "entry_image": "/schools/Queens/images/etheringtonAUD.png"
+    },
+    {
+      "entry_label": "GDN 247",
+      "entry_category": "Goodwin Hall",
+      "entry_image": "/schools/Queens/images/goodwin247.png"
+    },
+    {
+      "entry_label": "GDN 248",
+      "entry_category": "Goodwin Hall",
+      "entry_image": "/schools/Queens/images/goodwin248.png"
+    },
+    {
+      "entry_label": "GDN 254",
+      "entry_category": "Goodwin Hall",
+      "entry_image": "/schools/Queens/images/goodwin254.png"
+    },
+    {
+      "entry_label": "GDS 100",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes302.png"
+    },
+    {
+      "entry_label": "GDS 101",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes301.png"
+    },
+    {
+      "entry_label": "GDS 102",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes304.png"
+    },
+    {
+      "entry_label": "GDS 103",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes303.png"
+    },
+    {
+      "entry_label": "GDS 141",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes348.png"
+    },
+    {
+      "entry_label": "GDS 151",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes352.png"
+    },
+    {
+      "entry_label": "GDS 153",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes353.png"
+    },
+    {
+      "entry_label": "GDS 301",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes301-2.png"
+    },
+    {
+      "entry_label": "GDS 302",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes302-2.png"
+    },
+    {
+      "entry_label": "GDS 303",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes303-2.png"
+    },
+    {
+      "entry_label": "GDS 304",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes304-2.png"
+    },
+    {
+      "entry_label": "GDS 305",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes400.png"
+    },
+    {
+      "entry_label": "GDS 308",
+      "entry_category": "Goodes Hall",
+      "entry_image": "/schools/Queens/images/goodes406.png"
+    },
+    {
+      "entry_label": "HUM AUD",
+      "entry_category": "Humphrey Hall",
+      "entry_image": "/schools/Queens/images/humphrey4.png"
+    },
+    {
+      "entry_label": "HUM 131",
+      "entry_category": "Humphrey Hall",
+      "entry_image": "/schools/Queens/images/humphrey131.png"
+    },
+    {
+      "entry_label": "HUM 132",
+      "entry_category": "Humphrey Hall",
+      "entry_image": "/schools/Queens/images/humphrey132.png"
+    },
+    {
+      "entry_label": "HUM 223",
+      "entry_category": "Humphrey Hall",
+      "entry_image": "/schools/Queens/images/humphrey223.png"
+    },
+    {
+      "entry_label": "JRY 101",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/jeffrey101.png"
+    },
+    {
+      "entry_label": "JRY 102",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY102.png"
+    },
+    {
+      "entry_label": "JRY 103",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY103.png"
+    },
+    {
+      "entry_label": "JRY 110",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY110.png"
+    },
+    {
+      "entry_label": "JRY 115",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY115.png"
+    },
+    {
+      "entry_label": "JRY 116",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY116.png"
+    },
+    {
+      "entry_label": "JRY 118",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY118.png"
+    },
+    {
+      "entry_label": "JRY 126",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY126.png"
+    },
+    {
+      "entry_label": "JRY 127",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY127.png"
+    },
+    {
+      "entry_label": "JRY 128",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY128.png"
+    },
+    {
+      "entry_label": "JRY 225",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY225.png"
+    },
+    {
+      "entry_label": "JRY 234",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY234.png"
+    },
+    {
+      "entry_label": "JRY 319",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY319.png"
+    },
+    {
+      "entry_label": "JRY 422",
+      "entry_category": "Jeffery Hall",
+      "entry_image": "/schools/Queens/images/JRY422.png"
+    },
+    {
+      "entry_label": "KIN 100",
+      "entry_category": "Kin. & Health Sciences",
+      "entry_image": "/schools/Queens/images/kin100.png"
+    },
+    {
+      "entry_label": "KIN 101",
+      "entry_category": "Kin. & Health Sciences",
+      "entry_image": "/schools/Queens/images/kin101.png"
+    },
+    {
+      "entry_label": "KIN 102",
+      "entry_category": "Kin. & Health Sciences",
+      "entry_image": "/schools/Queens/images/kin102.png"
+    },
+    {
+      "entry_label": "KIN 103",
+      "entry_category": "Kin. & Health Sciences",
+      "entry_image": "/schools/Queens/images/kin103.png"
+    },
+    {
+      "entry_label": "KIN 104",
+      "entry_category": "Kin. & Health Sciences",
+      "entry_image": "/schools/Queens/images/kin104.png"
+    },
+    {
+      "entry_label": "KIN 105",
+      "entry_category": "Kin. & Health Sciences",
+      "entry_image": "/schools/Queens/images/kin105.png"
+    },
+    {
+      "entry_label": "KIN 106",
+      "entry_category": "Kin. & Health Sciences",
+      "entry_image": "/schools/Queens/images/kin106.png"
+    },
+    {
+      "entry_label": "KIN 107",
+      "entry_category": "Kin. & Health Sciences",
+      "entry_image": "/schools/Queens/images/kin107.png"
+    },
+    {
+      "entry_label": "KING 100",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston100.png"
+    },
+    {
+      "entry_label": "KING 104",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston104.png"
+    },
+    {
+      "entry_label": "KING 200",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston200.png"
+    },
+    {
+      "entry_label": "KING 201",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston201.png"
+    },
+    {
+      "entry_label": "KING 202",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston202.png"
+    },
+    {
+      "entry_label": "KING 204",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston204.png"
+    },
+    {
+      "entry_label": "KING 205",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston205.png"
+    },
+    {
+      "entry_label": "KING 208",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston208.png"
+    },
+    {
+      "entry_label": "KING 209",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston209.png"
+    },
+    {
+      "entry_label": "KING 210",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston210.png"
+    },
+    {
+      "entry_label": "KING 302",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston302.png"
+    },
+    {
+      "entry_label": "KING 304",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston304.png"
+    },
+    {
+      "entry_label": "KING 306",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston306.png"
+    },
+    {
+      "entry_label": "KING 308",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston308.png"
+    },
+    {
+      "entry_label": "KING 310",
+      "entry_category": "Kingston Hall",
+      "entry_image": "/schools/Queens/images/kingston310.png"
+    },
+    {
+      "entry_label": "MAC A416",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryA416.png"
+    },
+    {
+      "entry_label": "MAC B201",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryB201.png"
+    },
+    {
+      "entry_label": "MAC B503",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryB503.png"
+    },
+    {
+      "entry_label": "MAC C416",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryC416.png"
+    },
+    {
+      "entry_label": "MAC C420",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryC420.png"
+    },
+    {
+      "entry_label": "MAC C508",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryC508.png"
+    },
+    {
+      "entry_label": "MAC D122",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryD122.png"
+    },
+    {
+      "entry_label": "MAC D207",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryD207.png"
+    },
+    {
+      "entry_label": "MAC D209",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryD209.png"
+    },
+    {
+      "entry_label": "MAC D211",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryD211.png"
+    },
+    {
+      "entry_label": "MAC D214",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryD214.png"
+    },
+    {
+      "entry_label": "MAC D216",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryD216.png"
+    },
+    {
+      "entry_label": "MAC D326",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryD326.png"
+    },
+    {
+      "entry_label": "MAC D405",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryD405.png"
+    },
+    {
+      "entry_label": "MAC E202",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryE202.png"
+    },
+    {
+      "entry_label": "MAC E229",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryE229.png"
+    },
+    {
+      "entry_label": "MAC E230",
+      "entry_category": "Mackintosh-Corry Hall",
+      "entry_image": "/schools/Queens/images/corryE230.png"
+    },
+    {
+      "entry_label": "MCD 001",
+      "entry_category": "Macdonald Hall",
+      "entry_image": "/schools/Queens/images/macdonald001.png"
+    },
+    {
+      "entry_label": "MCD 002",
+      "entry_category": "Macdonald Hall",
+      "entry_image": "/schools/Queens/images/macdonald002.png"
+    },
+    {
+      "entry_label": "MCD 003",
+      "entry_category": "Macdonald Hall",
+      "entry_image": "/schools/Queens/images/macdonald003.png"
+    },
+    {
+      "entry_label": "MCD 004",
+      "entry_category": "Macdonald Hall",
+      "entry_image": "/schools/Queens/images/macdonald004.png"
+    },
+    {
+      "entry_label": "MCD 100",
+      "entry_category": "Macdonald Hall",
+      "entry_image": "/schools/Queens/images/macdonald100.png"
+    },
+    {
+      "entry_label": "MCD 201",
+      "entry_category": "Macdonald Hall",
+      "entry_image": "/schools/Queens/images/macdonald201.png"
+    },
+    {
+      "entry_label": "MCD 202",
+      "entry_category": "Macdonald Hall",
+      "entry_image": "/schools/Queens/images/macdonald202.png"
+    },
+    {
+      "entry_label": "MCL 302",
+      "entry_category": "McLaughlin Hall",
+      "entry_image": "/schools/Queens/images/mclaughlin302.png"
+    },
+    {
+      "entry_label": "MCL 306",
+      "entry_category": "McLaughlin Hall",
+      "entry_image": "/schools/Queens/images/mclaughlin306.png"
+    },
+    {
+      "entry_label": "MCL 315",
+      "entry_category": "McLaughlin Hall",
+      "entry_image": "/schools/Queens/images/mclaughlin315.png"
+    },
+    {
+      "entry_label": "MIL 105",
+      "entry_category": "Miller Hall",
+      "entry_image": "/schools/Queens/images/miller105.png"
+    },
+    {
+      "entry_label": "MIL 201",
+      "entry_category": "Miller Hall",
+      "entry_image": "/schools/Queens/images/miller201.png"
+    },
+    {
+      "entry_label": "MIL 210",
+      "entry_category": "Miller Hall",
+      "entry_image": "/schools/Queens/images/miller210.png"
+    },
+    {
+      "entry_label": "NIC 232",
+      "entry_category": "Nicol Hall",
+      "entry_image": "/schools/Queens/images/nicol232.png"
+    },
+    {
+      "entry_label": "NIC 321",
+      "entry_category": "Nicol Hall",
+      "entry_image": "/schools/Queens/images/nicol321.png"
+    },
+    {
+      "entry_label": "ONT 206",
+      "entry_category": "Ontario Hall",
+      "entry_image": "/schools/Queens/images/ontario206.png"
+    },
+    {
+      "entry_label": "ONT 207",
+      "entry_category": "Ontario Hall",
+      "entry_image": "/schools/Queens/images/ontario207.png"
+    },
+    {
+      "entry_label": "ONT 209",
+      "entry_category": "Ontario Hall",
+      "entry_image": "/schools/Queens/images/ontario209.png"
+    },
+    {
+      "entry_label": "RCH 104",
+      "entry_category": "Richardson Laboratory",
+      "entry_image": "/schools/Queens/images/richardson104.png"
+    },
+    {
+      "entry_label": "STR A",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterlingA.png"
+    },
+    {
+      "entry_label": "STR B",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterlingB.png"
+    },
+    {
+      "entry_label": "STR C",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterlingC.png"
+    },
+    {
+      "entry_label": "STR D",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterlingD.png"
+    },
+    {
+      "entry_label": "STR 401",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterling401.png"
+    },
+    {
+      "entry_label": "STR 412A",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterling412.png"
+    },
+    {
+      "entry_label": "STR 412B",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterling412.png"
+    },
+    {
+      "entry_label": "STR 412C",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterling412.png"
+    },
+    {
+      "entry_label": "STR 414",
+      "entry_category": "Stirling Hall",
+      "entry_image": "/schools/Queens/images/sterling414.png"
+    },
+    {
+      "entry_label": "WLT 205",
+      "entry_category": "Walter Light Hall",
+      "entry_image": "/schools/Queens/images/walter205.png"
+    },
+    {
+      "entry_label": "WLT 210",
+      "entry_category": "Walter Light Hall",
+      "entry_image": "/schools/Queens/images/walter210.png"
+    },
+    {
+      "entry_label": "WLT 212",
+      "entry_category": "Walter Light Hall",
+      "entry_image": "/schools/Queens/images/walter212.png"
+    },
+    {
+      "entry_label": "WAT 122",
+      "entry_category": "John Watson Hall",
+      "entry_image": "/schools/Queens/images/watson122.png"
+    },
+    {
+      "entry_label": "WAT 207",
+      "entry_category": "John Watson Hall",
+      "entry_image": "/schools/Queens/images/watson207.png"
+    },
+    {
+      "entry_label": "WAT 217",
+      "entry_category": "John Watson Hall",
+      "entry_image": "/schools/Queens/images/watson217.png"
+    },
+    {
+      "entry_label": "WAT 401",
+      "entry_category": "John Watson Hall",
+      "entry_image": "/schools/Queens/images/watson401.png"
+    },
+    {
+      "entry_label": "WAT 522",
+      "entry_category": "John Watson Hall",
+      "entry_image": "/schools/Queens/images/watson522.png"
+    }
+  ]
+}

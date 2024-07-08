@@ -1,0 +1,828 @@
+{
+  "school_name": "Ottawa",
+  "game_modes": [
+    "BUILDING"
+  ],
+  "data": [
+    {
+      "entry_label": "ARTS 033",
+      "entry_category": "Arts Hall",
+      "entry_image": "/schools/Ottawa/images/arts033.png"
+    },
+    {
+      "entry_label": "ARTS 257",
+      "entry_category": "Arts Hall",
+      "entry_image": "/schools/Ottawa/images/arts257.png"
+    },
+    {
+      "entry_label": "BRS 302",
+      "entry_category": "Brooks Residence",
+      "entry_image": "/schools/Ottawa/images/brooks302.png"
+    },
+    {
+      "entry_label": "BRS 314",
+      "entry_category": "Brooks Residence",
+      "entry_image": "/schools/Ottawa/images/brooks314.png"
+    },
+    {
+      "entry_label": "CBY B02",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyB02.png"
+    },
+    {
+      "entry_label": "CBY B012",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyB012.png"
+    },
+    {
+      "entry_label": "CBY B202",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyB202.png"
+    },
+    {
+      "entry_label": "CBY B205",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyB205.png"
+    },
+    {
+      "entry_label": "CBY C03",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyC03.png"
+    },
+    {
+      "entry_label": "CBY D103",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyD103.png"
+    },
+    {
+      "entry_label": "CBY D107",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyD107.png"
+    },
+    {
+      "entry_label": "CBY D113",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyD113.png"
+    },
+    {
+      "entry_label": "CBY D207",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyD207.png"
+    },
+    {
+      "entry_label": "CBY E015",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyE015.png"
+    },
+    {
+      "entry_label": "CBY E016",
+      "entry_category": "Colonel By Hall",
+      "entry_image": "/schools/Ottawa/images/colonelbyE016.png"
+    },
+    {
+      "entry_label": "DMS 1110",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais1110.png"
+    },
+    {
+      "entry_label": "DMS 1120",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais1120.png"
+    },
+    {
+      "entry_label": "DMS 1130",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais1130.png"
+    },
+    {
+      "entry_label": "DMS 1140",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais1140.png"
+    },
+    {
+      "entry_label": "DMS 1150",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais1150.png"
+    },
+    {
+      "entry_label": "DMS 1160",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais1160.png"
+    },
+    {
+      "entry_label": "DMS 8143",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais8143.png"
+    },
+    {
+      "entry_label": "DMS 8161",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais8161.png"
+    },
+    {
+      "entry_label": "DMS 9143",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais9143.png"
+    },
+    {
+      "entry_label": "DMS 9161",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais9161.png"
+    },
+    {
+      "entry_label": "DMS 10143",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais10143.png"
+    },
+    {
+      "entry_label": "DMS 10161",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais10161.png"
+    },
+    {
+      "entry_label": "DMS 11143",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais9.png"
+    },
+    {
+      "entry_label": "DMS 11161",
+      "entry_category": "Desmarais",
+      "entry_image": "/schools/Ottawa/images/desmarais9.png"
+    },
+    {
+      "entry_label": "FSS 1005",
+      "entry_category": "Faculty of Social Sciences",
+      "entry_image": "/schools/Ottawa/images/facultyss1005.png"
+    },
+    {
+      "entry_label": "FSS 1006",
+      "entry_category": "Faculty of Social Sciences",
+      "entry_image": "/schools/Ottawa/images/facultyss1006.png"
+    },
+    {
+      "entry_label": "FSS 1007",
+      "entry_category": "Faculty of Social Sciences",
+      "entry_image": "/schools/Ottawa/images/facultyss1007.png"
+    },
+    {
+      "entry_label": "FSS 1030",
+      "entry_category": "Faculty of Social Sciences",
+      "entry_image": "/schools/Ottawa/images/facultyss1030.png"
+    },
+    {
+      "entry_label": "FSS 2005",
+      "entry_category": "Faculty of Social Sciences",
+      "entry_image": "/schools/Ottawa/images/facultyss2005.png"
+    },
+    {
+      "entry_label": "FTX 147",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur147.png"
+    },
+    {
+      "entry_label": "FTX 147A",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur147A.png"
+    },
+    {
+      "entry_label": "FTX 147B",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur147B.png"
+    },
+    {
+      "entry_label": "FTX 227",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur227.png"
+    },
+    {
+      "entry_label": "FTX 232",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur232.png"
+    },
+    {
+      "entry_label": "FTX 315",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur315.png"
+    },
+    {
+      "entry_label": "FTX 351",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur351.png"
+    },
+    {
+      "entry_label": "FTX 359",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur359.png"
+    },
+    {
+      "entry_label": "FTX 361",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur361.png"
+    },
+    {
+      "entry_label": "FTX 401",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/FTX401.png"
+    },
+    {
+      "entry_label": "FTX 402",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/FTX402.png"
+    },
+    {
+      "entry_label": "FTX 413",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur413.png"
+    },
+    {
+      "entry_label": "FTX 416",
+      "entry_category": "Fauteux Hall",
+      "entry_image": "/schools/Ottawa/images/louispasteur416.png"
+    },
+    {
+      "entry_label": "HGN 302",
+      "entry_category": "Hagen Hall",
+      "entry_image": "/schools/Ottawa/images/hagen302.png"
+    },
+    {
+      "entry_label": "HGN 305",
+      "entry_category": "Hagen Hall",
+      "entry_image": "/schools/Ottawa/images/hagen305.png"
+    },
+    {
+      "entry_label": "LEES A130",
+      "entry_category": "Lees Hall",
+      "entry_image": "/schools/Ottawa/images/leesA130.png"
+    },
+    {
+      "entry_label": "LEES B152",
+      "entry_category": "Lees Hall",
+      "entry_image": "/schools/Ottawa/images/leesB152.png"
+    },
+    {
+      "entry_label": "LEES B163",
+      "entry_category": "Lees Hall",
+      "entry_image": "/schools/Ottawa/images/leesB163.png"
+    },
+    {
+      "entry_label": "LEES C102",
+      "entry_category": "Lees Hall",
+      "entry_image": "/schools/Ottawa/images/leesC102.png"
+    },
+    {
+      "entry_label": "LEES C104",
+      "entry_category": "Lees Hall",
+      "entry_image": "/schools/Ottawa/images/leesC104.png"
+    },
+    {
+      "entry_label": "LEES C107",
+      "entry_category": "Lees Hall",
+      "entry_image": "/schools/Ottawa/images/leesC107.png"
+    },
+    {
+      "entry_label": "LMX 105",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux105.png"
+    },
+    {
+      "entry_label": "LMX 106",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux106.png"
+    },
+    {
+      "entry_label": "LMX 107",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux107.png"
+    },
+    {
+      "entry_label": "LMX 108",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux108.png"
+    },
+    {
+      "entry_label": "LMX 109",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux109.png"
+    },
+    {
+      "entry_label": "LMX 112",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux112.png"
+    },
+    {
+      "entry_label": "LMX 115",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux115.png"
+    },
+    {
+      "entry_label": "LMX 116",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux116.png"
+    },
+    {
+      "entry_label": "LMX 117",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux117.png"
+    },
+    {
+      "entry_label": "LMX 121",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux121.png"
+    },
+    {
+      "entry_label": "LMX 122",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux122.png"
+    },
+    {
+      "entry_label": "LMX 124",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux124.png"
+    },
+    {
+      "entry_label": "LMX 215",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux215.png"
+    },
+    {
+      "entry_label": "LMX 216",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux216.png"
+    },
+    {
+      "entry_label": "LMX 217",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux217.png"
+    },
+    {
+      "entry_label": "LMX 219",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux219.png"
+    },
+    {
+      "entry_label": "LMX 220",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux220.png"
+    },
+    {
+      "entry_label": "LMX 221",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux221.png"
+    },
+    {
+      "entry_label": "LMX 223",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux223.png"
+    },
+    {
+      "entry_label": "LMX 240",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux240.png"
+    },
+    {
+      "entry_label": "LMX 241",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux241.png"
+    },
+    {
+      "entry_label": "LMX 242",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux242.png"
+    },
+    {
+      "entry_label": "LMX 243",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux243.png"
+    },
+    {
+      "entry_label": "LMX 339",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux339.png"
+    },
+    {
+      "entry_label": "LMX 342",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux342.png"
+    },
+    {
+      "entry_label": "LMX 360",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux360.png"
+    },
+    {
+      "entry_label": "LMX 390",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux390.png"
+    },
+    {
+      "entry_label": "LMX 403",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux403.png"
+    },
+    {
+      "entry_label": "LMX 405",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux405.png"
+    },
+    {
+      "entry_label": "LMX 407",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux407.png"
+    },
+    {
+      "entry_label": "LMX 416",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux416.png"
+    },
+    {
+      "entry_label": "LMX 418",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux418.png"
+    },
+    {
+      "entry_label": "LMX 422",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux422.png"
+    },
+    {
+      "entry_label": "LMX 445",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux445.png"
+    },
+    {
+      "entry_label": "LMX 451",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux451.png"
+    },
+    {
+      "entry_label": "LMX 455",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux455.png"
+    },
+    {
+      "entry_label": "LMX 475",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux475.png"
+    },
+    {
+      "entry_label": "LMX 477",
+      "entry_category": "Lamoureux Hall",
+      "entry_image": "/schools/Ottawa/images/lamoureux477.png"
+    },
+    {
+      "entry_label": "LPR 154",
+      "entry_category": "Louis-Pasteur",
+      "entry_image": "/schools/Ottawa/images/louispasteur154.png"
+    },
+    {
+      "entry_label": "LPR 155",
+      "entry_category": "Louis-Pasteur",
+      "entry_image": "/schools/Ottawa/images/louispasteur155.png"
+    },
+    {
+      "entry_label": "LPR 273",
+      "entry_category": "Louis-Pasteur",
+      "entry_image": "/schools/Ottawa/images/louispasteur273.png"
+    },
+    {
+      "entry_label": "LPR 284",
+      "entry_category": "Louis-Pasteur",
+      "entry_image": "/schools/Ottawa/images/louispasteur284.png"
+    },
+    {
+      "entry_label": "LPR 285",
+      "entry_category": "Louis-Pasteur",
+      "entry_image": "/schools/Ottawa/images/louispasteur285.png"
+    },
+    {
+      "entry_label": "LPR 286",
+      "entry_category": "Louis-Pasteur",
+      "entry_image": "/schools/Ottawa/images/louispasteur286.png"
+    },
+    {
+      "entry_label": "MCD 120",
+      "entry_category": "MacDonald Hall",
+      "entry_image": "/schools/Ottawa/images/macdonald120.png"
+    },
+    {
+      "entry_label": "MCD 121",
+      "entry_category": "MacDonald Hall",
+      "entry_image": "/schools/Ottawa/images/macdonald121.png"
+    },
+    {
+      "entry_label": "MCD 146",
+      "entry_category": "MacDonald Hall",
+      "entry_image": "/schools/Ottawa/images/macdonald146.png"
+    },
+    {
+      "entry_label": "MCD 210",
+      "entry_category": "MacDonald Hall",
+      "entry_image": "/schools/Ottawa/images/macdonald10.png"
+    },
+    {
+      "entry_label": "MCD 212",
+      "entry_category": "MacDonald Hall",
+      "entry_image": "/schools/Ottawa/images/macdonald10.png"
+    },
+    {
+      "entry_label": "MNT 103",
+      "entry_category": "Montpetit Hall",
+      "entry_image": "/schools/Ottawa/images/montpetit103.png"
+    },
+    {
+      "entry_label": "MNT 201",
+      "entry_category": "Montpetit Hall",
+      "entry_image": "/schools/Ottawa/images/montpetit201.png"
+    },
+    {
+      "entry_label": "MNT 202",
+      "entry_category": "Montpetit Hall",
+      "entry_image": "/schools/Ottawa/images/montpetit202.png"
+    },
+    {
+      "entry_label": "MNT 203",
+      "entry_category": "Montpetit Hall",
+      "entry_image": "/schools/Ottawa/images/montpetit203.png"
+    },
+    {
+      "entry_label": "MNT 204",
+      "entry_category": "Montpetit Hall",
+      "entry_image": "/schools/Ottawa/images/montpetit204.png"
+    },
+    {
+      "entry_label": "MNT 207",
+      "entry_category": "Montpetit Hall",
+      "entry_image": "/schools/Ottawa/images/montpetit207.png"
+    },
+    {
+      "entry_label": "MRN AUD",
+      "entry_category": "Marion Hall",
+      "entry_image": "/schools/Ottawa/images/marionaud.png"
+    },
+    {
+      "entry_label": "MRN 226",
+      "entry_category": "Marion Hall",
+      "entry_image": "/schools/Ottawa/images/marion226.png"
+    },
+    {
+      "entry_label": "MRN 301",
+      "entry_category": "Marion Hall",
+      "entry_image": "/schools/Ottawa/images/marion301.png"
+    },
+    {
+      "entry_label": "MRT 005",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset05.png"
+    },
+    {
+      "entry_label": "MRT 015",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset015.png"
+    },
+    {
+      "entry_label": "MRT 205",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset205.png"
+    },
+    {
+      "entry_label": "MRT 211",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset211.png"
+    },
+    {
+      "entry_label": "MRT 212",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset212.png"
+    },
+    {
+      "entry_label": "MRT 218",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset218.png"
+    },
+    {
+      "entry_label": "MRT 219",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset219.png"
+    },
+    {
+      "entry_label": "MRT 220",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset220.png"
+    },
+    {
+      "entry_label": "MRT 221",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset221.png"
+    },
+    {
+      "entry_label": "MRT 224",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset224.png"
+    },
+    {
+      "entry_label": "MRT 250",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset250.png"
+    },
+    {
+      "entry_label": "MRT 251",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset251.png"
+    },
+    {
+      "entry_label": "MRT 252",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset252.png"
+    },
+    {
+      "entry_label": "MRT 256",
+      "entry_category": "Morisset Hall",
+      "entry_image": "/schools/Ottawa/images/morisset256.png"
+    },
+    {
+      "entry_label": "SCSE E217",
+      "entry_category": "Sports Complex",
+      "entry_image": "/schools/Ottawa/images/SCSEE217.png"
+    },
+    {
+      "entry_label": "SCSE E218",
+      "entry_category": "Sports Complex",
+      "entry_image": "/schools/Ottawa/images/SCSEE218.png"
+    },
+    {
+      "entry_label": "SMD 221",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard221.png"
+    },
+    {
+      "entry_label": "SMD 222",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard222.png"
+    },
+    {
+      "entry_label": "SMD 224",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard224.png"
+    },
+    {
+      "entry_label": "SMD 226",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard226.png"
+    },
+    {
+      "entry_label": "SMD 227",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard227.png"
+    },
+    {
+      "entry_label": "SMD 324",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard324.png"
+    },
+    {
+      "entry_label": "SMD 330",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard330.png"
+    },
+    {
+      "entry_label": "SMD 402",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard402.png"
+    },
+    {
+      "entry_label": "SMD 422",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard422.png"
+    },
+    {
+      "entry_label": "SMD 423",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard423.png"
+    },
+    {
+      "entry_label": "SMD 425",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard425.png"
+    },
+    {
+      "entry_label": "SMD 427",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard427.png"
+    },
+    {
+      "entry_label": "SMD 428",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard428.png"
+    },
+    {
+      "entry_label": "SMD 429",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard429.png"
+    },
+    {
+      "entry_label": "SMD 430",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard430.png"
+    },
+    {
+      "entry_label": "SMD 503",
+      "entry_category": "Simard Hall",
+      "entry_image": "/schools/Ottawa/images/simard503.png"
+    },
+    {
+      "entry_label": "STE A0150",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITEA0150.png"
+    },
+    {
+      "entry_label": "STE B0138",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITEB0138.png"
+    },
+    {
+      "entry_label": "STE C0136",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITEC0136.png"
+    },
+    {
+      "entry_label": "STE F0126",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITEF0126.png"
+    },
+    {
+      "entry_label": "STE G0103",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITEG0103.png"
+    },
+    {
+      "entry_label": "STE H0104",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITEH104.png"
+    },
+    {
+      "entry_label": "STE J0106",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITEJ0106.png"
+    },
+    {
+      "entry_label": "STE L2052",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITE2052.png"
+    },
+    {
+      "entry_label": "STE K2060",
+      "entry_category": "Technology & Engineering",
+      "entry_image": "/schools/Ottawa/images/SITE2060.png"
+    },
+    {
+      "entry_label": "TBT W070",
+      "entry_category": "Tabaret Hall",
+      "entry_image": "/schools/Ottawa/images/tabaretw070.png"
+    },
+    {
+      "entry_label": "TBT W323",
+      "entry_category": "Tabaret Hall",
+      "entry_image": "/schools/Ottawa/images/tabaretw323w325.png"
+    },
+    {
+      "entry_label": "TBT W325",
+      "entry_category": "Tabaret Hall",
+      "entry_image": "/schools/Ottawa/images/tabaretw323w325.png"
+    },
+    {
+      "entry_label": "TBT W333",
+      "entry_category": "Tabaret Hall",
+      "entry_image": "/schools/Ottawa/images/tabaretw333.png"
+    },
+    {
+      "entry_label": "UCU AUD",
+      "entry_category": "University Centre",
+      "entry_image": "/schools/Ottawa/images/unicenteraud.png"
+    },
+    {
+      "entry_label": "VNR 1075",
+      "entry_category": "Vanier Hall",
+      "entry_image": "/schools/Ottawa/images/mariecurie1075.png"
+    },
+    {
+      "entry_label": "VNR 2075",
+      "entry_category": "Vanier Hall",
+      "entry_image": "/schools/Ottawa/images/mariecurie2075.png"
+    },
+    {
+      "entry_label": "VNR 2095",
+      "entry_category": "Vanier Hall",
+      "entry_image": "/schools/Ottawa/images/mariecurie2095.png"
+    },
+    {
+      "entry_label": "VNR 3035",
+      "entry_category": "Vanier Hall",
+      "entry_image": "/schools/Ottawa/images/mariecurie3035.png"
+    },
+    {
+      "entry_label": "VNR 3075",
+      "entry_category": "Vanier Hall",
+      "entry_image": "/schools/Ottawa/images/mariecurie3075.png"
+    }
+  ]
+}
