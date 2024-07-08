@@ -1,0 +1,2088 @@
+{
+  "school_name": "Guelph",
+  "game_modes": [
+    "BUILDING"
+  ],
+  "data": [
+    {
+      "entry_label": "ALEX 100",
+      "entry_category": "Alexander Hall",
+      "entry_image": "/schools/Guelph/images/ALEX100.png"
+    },
+    {
+      "entry_label": "ALEX 200",
+      "entry_category": "Alexander Hall",
+      "entry_image": "/schools/Guelph/images/ALEX200.png"
+    },
+    {
+      "entry_label": "ANNU 102",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU102.png"
+    },
+    {
+      "entry_label": "ANNU 103",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU103.png"
+    },
+    {
+      "entry_label": "ANNU 104",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU104.png"
+    },
+    {
+      "entry_label": "ANNU 105",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU105.png"
+    },
+    {
+      "entry_label": "ANNU 107",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU107.png"
+    },
+    {
+      "entry_label": "ANNU 110",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU110.png"
+    },
+    {
+      "entry_label": "ANNU 115",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU115.png"
+    },
+    {
+      "entry_label": "ANNU 116",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU116.png"
+    },
+    {
+      "entry_label": "ANNU 133",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU133.png"
+    },
+    {
+      "entry_label": "ANNU 141",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU141.png"
+    },
+    {
+      "entry_label": "ANNU 156",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU156.png"
+    },
+    {
+      "entry_label": "ANNU 204",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU204.png"
+    },
+    {
+      "entry_label": "ANNU 205",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU205.png"
+    },
+    {
+      "entry_label": "ANNU 208",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU208.png"
+    },
+    {
+      "entry_label": "ANNU 212",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU212.png"
+    },
+    {
+      "entry_label": "ANNU 214",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU214.png"
+    },
+    {
+      "entry_label": "ANNU 215",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU215.png"
+    },
+    {
+      "entry_label": "ANNU 216",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU216.png"
+    },
+    {
+      "entry_label": "ANNU 217",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU217.png"
+    },
+    {
+      "entry_label": "ANNU 218",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU218.png"
+    },
+    {
+      "entry_label": "ANNU 220",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU220.png"
+    },
+    {
+      "entry_label": "ANNU 302",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU302.png"
+    },
+    {
+      "entry_label": "ANNU 305",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU305.png"
+    },
+    {
+      "entry_label": "ANNU 306",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU306.png"
+    },
+    {
+      "entry_label": "ANNU 327",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU327.png"
+    },
+    {
+      "entry_label": "ANNU 337",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU337.png"
+    },
+    {
+      "entry_label": "ANNU 355",
+      "entry_category": "Animal Science & Nutrition",
+      "entry_image": "/schools/Guelph/images/ANNU355.png"
+    },
+    {
+      "entry_label": "CRSC 101",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC101.png"
+    },
+    {
+      "entry_label": "CRSC 104",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC104.png"
+    },
+    {
+      "entry_label": "CRSC 105",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC105.png"
+    },
+    {
+      "entry_label": "CRSC 106",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC106.png"
+    },
+    {
+      "entry_label": "CRSC 107",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC107.png"
+    },
+    {
+      "entry_label": "CRSC 109",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC109.png"
+    },
+    {
+      "entry_label": "CRSC 110",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC110.png"
+    },
+    {
+      "entry_label": "CRSC 112",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC112.png"
+    },
+    {
+      "entry_label": "CRSC 113",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC113.png"
+    },
+    {
+      "entry_label": "CRSC 114",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC114.png"
+    },
+    {
+      "entry_label": "CRSC 116",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC116.png"
+    },
+    {
+      "entry_label": "CRSC 117",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC117.png"
+    },
+    {
+      "entry_label": "CRSC 118",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC118.png"
+    },
+    {
+      "entry_label": "CRSC 118A",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC118A.png"
+    },
+    {
+      "entry_label": "CRSC 121",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC121.png"
+    },
+    {
+      "entry_label": "CRSC 122",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC122.png"
+    },
+    {
+      "entry_label": "CRSC 123",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC123.png"
+    },
+    {
+      "entry_label": "CRSC 124",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC124.png"
+    },
+    {
+      "entry_label": "CRSC 127",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC127.png"
+    },
+    {
+      "entry_label": "CRSC 133",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC133.png"
+    },
+    {
+      "entry_label": "CRSC 134",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC134.png"
+    },
+    {
+      "entry_label": "CRSC 136",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC136.png"
+    },
+    {
+      "entry_label": "CRSC 138",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC138.png"
+    },
+    {
+      "entry_label": "CRSC 139",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC139.png"
+    },
+    {
+      "entry_label": "CRSC 140",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC140.png"
+    },
+    {
+      "entry_label": "CRSC 141",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC141.png"
+    },
+    {
+      "entry_label": "CRSC 143",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC143.png"
+    },
+    {
+      "entry_label": "CRSC 144",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC144.png"
+    },
+    {
+      "entry_label": "CRSC 151",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC151.png"
+    },
+    {
+      "entry_label": "CRSC 205",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC205.png"
+    },
+    {
+      "entry_label": "CRSC 210",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC210.png"
+    },
+    {
+      "entry_label": "CRSC 216",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC216.png"
+    },
+    {
+      "entry_label": "CRSC 219",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC219.png"
+    },
+    {
+      "entry_label": "CRSC 222",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC222.png"
+    },
+    {
+      "entry_label": "CRSC 225",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC225.png"
+    },
+    {
+      "entry_label": "CRSC 302",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC302.png"
+    },
+    {
+      "entry_label": "CRSC 302A",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC302A.png"
+    },
+    {
+      "entry_label": "CRSC 307",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC307.png"
+    },
+    {
+      "entry_label": "CRSC 308",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC308.png"
+    },
+    {
+      "entry_label": "CRSC 310",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC310.png"
+    },
+    {
+      "entry_label": "CRSC 318",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC318.png"
+    },
+    {
+      "entry_label": "CRSC 322",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC322.png"
+    },
+    {
+      "entry_label": "CRSC 403",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC403.png"
+    },
+    {
+      "entry_label": "CRSC 411",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC411.png"
+    },
+    {
+      "entry_label": "CRSC 415",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC415.png"
+    },
+    {
+      "entry_label": "CRSC 418",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC418.png"
+    },
+    {
+      "entry_label": "CRSC 419",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC419.png"
+    },
+    {
+      "entry_label": "CRSC 426",
+      "entry_category": "Crop Science",
+      "entry_image": "/schools/Guelph/images/CRSC426.png"
+    },
+    {
+      "entry_label": "FS 102",
+      "entry_category": "Food Science",
+      "entry_image": "/schools/Guelph/images/FS102.png"
+    },
+    {
+      "entry_label": "FS 128",
+      "entry_category": "Food Science",
+      "entry_image": "/schools/Guelph/images/FS128.png"
+    },
+    {
+      "entry_label": "FS 129",
+      "entry_category": "Food Science",
+      "entry_image": "/schools/Guelph/images/FS129.png"
+    },
+    {
+      "entry_label": "FS 239",
+      "entry_category": "Food Science",
+      "entry_image": "/schools/Guelph/images/FS239.png"
+    },
+    {
+      "entry_label": "FS 241",
+      "entry_category": "Food Science",
+      "entry_image": "/schools/Guelph/images/FS241.png"
+    },
+    {
+      "entry_label": "FS 246",
+      "entry_category": "Food Science",
+      "entry_image": "/schools/Guelph/images/FS246.png"
+    },
+    {
+      "entry_label": "HUTT 231",
+      "entry_category": "H.L. Hutt",
+      "entry_image": "/schools/Guelph/images/HUTT231.png"
+    },
+    {
+      "entry_label": "HUTT 233",
+      "entry_category": "H.L. Hutt",
+      "entry_image": "/schools/Guelph/images/HUTT233.png"
+    },
+    {
+      "entry_label": "HUTT 234",
+      "entry_category": "H.L. Hutt",
+      "entry_image": "/schools/Guelph/images/HUTT234.png"
+    },
+    {
+      "entry_label": "HUTT 235",
+      "entry_category": "H.L. Hutt",
+      "entry_image": "/schools/Guelph/images/HUTT235.png"
+    },
+    {
+      "entry_label": "HUTT 236",
+      "entry_category": "H.L. Hutt",
+      "entry_image": "/schools/Guelph/images/HUTT236.png"
+    },
+    {
+      "entry_label": "HUTT 240A",
+      "entry_category": "H.L. Hutt",
+      "entry_image": "/schools/Guelph/images/HUTT240A.png"
+    },
+    {
+      "entry_label": "HUTT 240B",
+      "entry_category": "H.L. Hutt",
+      "entry_image": "/schools/Guelph/images/HUTT240B.png"
+    },
+    {
+      "entry_label": "HUTT 240C",
+      "entry_category": "H.L. Hutt",
+      "entry_image": "/schools/Guelph/images/HUTT240C.png"
+    },
+    {
+      "entry_label": "LA 125",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA125.png"
+    },
+    {
+      "entry_label": "LA 126",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA126.png"
+    },
+    {
+      "entry_label": "LA 127",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA127.png"
+    },
+    {
+      "entry_label": "LA 131",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA131.png"
+    },
+    {
+      "entry_label": "LA 132",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA132.png"
+    },
+    {
+      "entry_label": "LA 133",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA133.png"
+    },
+    {
+      "entry_label": "LA 140",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA140.png"
+    },
+    {
+      "entry_label": "LA 143",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA143.png"
+    },
+    {
+      "entry_label": "LA 200A",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA200A.png"
+    },
+    {
+      "entry_label": "LA 200B",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA200B.png"
+    },
+    {
+      "entry_label": "LA 200C",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA200C.png"
+    },
+    {
+      "entry_label": "LA 200D",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA200D.png"
+    },
+    {
+      "entry_label": "LA 204",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA204.png"
+    },
+    {
+      "entry_label": "LA 205",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA205.png"
+    },
+    {
+      "entry_label": "LA 208",
+      "entry_category": "Landscape Architecture",
+      "entry_image": "/schools/Guelph/images/LA208.png"
+    },
+    {
+      "entry_label": "MAC 149",
+      "entry_category": "Macdonald",
+      "entry_image": "/schools/Guelph/images/MAC149.png"
+    },
+    {
+      "entry_label": "MACK 016",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK016.png"
+    },
+    {
+      "entry_label": "MACK 018",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK018.png"
+    },
+    {
+      "entry_label": "MACK 019",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK019.png"
+    },
+    {
+      "entry_label": "MACK 019A",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK019A.png"
+    },
+    {
+      "entry_label": "MACK 020",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK020.png"
+    },
+    {
+      "entry_label": "MACK 021",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK021.png"
+    },
+    {
+      "entry_label": "MACK 024",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK024.png"
+    },
+    {
+      "entry_label": "MACK 025B",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK025B.png"
+    },
+    {
+      "entry_label": "MACK 026",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK026.png"
+    },
+    {
+      "entry_label": "MACK 026A",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK026A.png"
+    },
+    {
+      "entry_label": "MACK 026B",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK026B.png"
+    },
+    {
+      "entry_label": "MACK 027",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK027.png"
+    },
+    {
+      "entry_label": "MACK 028",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK028.png"
+    },
+    {
+      "entry_label": "MACK 029",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK029.png"
+    },
+    {
+      "entry_label": "MACK 030",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK030.png"
+    },
+    {
+      "entry_label": "MACK 030B",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK030B.png"
+    },
+    {
+      "entry_label": "MACK 031",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK031.png"
+    },
+    {
+      "entry_label": "MACK 059",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK059.png"
+    },
+    {
+      "entry_label": "MACK 101",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK101.png"
+    },
+    {
+      "entry_label": "MACK 103",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK103.png"
+    },
+    {
+      "entry_label": "MACK 108",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK108.png"
+    },
+    {
+      "entry_label": "MACK 109",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK109.png"
+    },
+    {
+      "entry_label": "MACK 114",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK114.png"
+    },
+    {
+      "entry_label": "MACK 115",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK115.png"
+    },
+    {
+      "entry_label": "MACK 116",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK116.png"
+    },
+    {
+      "entry_label": "MACK 117",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK117.png"
+    },
+    {
+      "entry_label": "MACK 118",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK118.png"
+    },
+    {
+      "entry_label": "MACK 118A",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK118A.png"
+    },
+    {
+      "entry_label": "MACK 119",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK119.png"
+    },
+    {
+      "entry_label": "MACK 119A",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK119A.png"
+    },
+    {
+      "entry_label": "MACK 120",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK120.png"
+    },
+    {
+      "entry_label": "MACK 121",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK121.png"
+    },
+    {
+      "entry_label": "MACK 128",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK128.png"
+    },
+    {
+      "entry_label": "MACK 129",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK129.png"
+    },
+    {
+      "entry_label": "MACK 130",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK130.png"
+    },
+    {
+      "entry_label": "MACK 131",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK131.png"
+    },
+    {
+      "entry_label": "MACK 132",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK132.png"
+    },
+    {
+      "entry_label": "MACK 134",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK134.png"
+    },
+    {
+      "entry_label": "MACK 223",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK223.png"
+    },
+    {
+      "entry_label": "MACK 224",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK224.png"
+    },
+    {
+      "entry_label": "MACK 225",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK225.png"
+    },
+    {
+      "entry_label": "MACK 226",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK226.png"
+    },
+    {
+      "entry_label": "MACK 227",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK227.png"
+    },
+    {
+      "entry_label": "MACK 228",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK228.png"
+    },
+    {
+      "entry_label": "MACK 229",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK229.png"
+    },
+    {
+      "entry_label": "MACK 230",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK230.png"
+    },
+    {
+      "entry_label": "MACK 231",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK231.png"
+    },
+    {
+      "entry_label": "MACK 231A",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK231A.png"
+    },
+    {
+      "entry_label": "MACK 232",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK232.png"
+    },
+    {
+      "entry_label": "MACK 233",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK233.png"
+    },
+    {
+      "entry_label": "MACK 234",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK234.png"
+    },
+    {
+      "entry_label": "MACK 235",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK235.png"
+    },
+    {
+      "entry_label": "MACK 236",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK236.png"
+    },
+    {
+      "entry_label": "MACK 237",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK237.png"
+    },
+    {
+      "entry_label": "MACK 238",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK238.png"
+    },
+    {
+      "entry_label": "MACK 303",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK303.png"
+    },
+    {
+      "entry_label": "MACK 304",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK304.png"
+    },
+    {
+      "entry_label": "MACK 305",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK305.png"
+    },
+    {
+      "entry_label": "MACK 306",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK306.png"
+    },
+    {
+      "entry_label": "MACK 307",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK307.png"
+    },
+    {
+      "entry_label": "MACK 308",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK308.png"
+    },
+    {
+      "entry_label": "MACK 309",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK309.png"
+    },
+    {
+      "entry_label": "MACK 310",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK310.png"
+    },
+    {
+      "entry_label": "MACK 311",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK311.png"
+    },
+    {
+      "entry_label": "MACK 312",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK312.png"
+    },
+    {
+      "entry_label": "MACK 313",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK313.png"
+    },
+    {
+      "entry_label": "MACK 314",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK314.png"
+    },
+    {
+      "entry_label": "MACK 315",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK315.png"
+    },
+    {
+      "entry_label": "MACK 316",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK316.png"
+    },
+    {
+      "entry_label": "MACK 317",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK317.png"
+    },
+    {
+      "entry_label": "MACK 318",
+      "entry_category": "Mackinnon",
+      "entry_image": "/schools/Guelph/images/MACK318.png"
+    },
+    {
+      "entry_label": "MACN 010",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN010.png"
+    },
+    {
+      "entry_label": "MACN 012",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN012.png"
+    },
+    {
+      "entry_label": "MACN 012A",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN012A.png"
+    },
+    {
+      "entry_label": "MACN 013",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN013.png"
+    },
+    {
+      "entry_label": "MACN 014",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN014.png"
+    },
+    {
+      "entry_label": "MACN 015",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN015.png"
+    },
+    {
+      "entry_label": "MACN 016",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN016.png"
+    },
+    {
+      "entry_label": "MACN 017",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN017.png"
+    },
+    {
+      "entry_label": "MACN 018",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN018.png"
+    },
+    {
+      "entry_label": "MACN 020A",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN020A.png"
+    },
+    {
+      "entry_label": "MACN 022",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN022.png"
+    },
+    {
+      "entry_label": "MACN 023",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN023.png"
+    },
+    {
+      "entry_label": "MACN 024",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN024.png"
+    },
+    {
+      "entry_label": "MACN 024A",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN024A.png"
+    },
+    {
+      "entry_label": "MACN 025",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN025.png"
+    },
+    {
+      "entry_label": "MACN 030",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN030.png"
+    },
+    {
+      "entry_label": "MACN 054",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN054.png"
+    },
+    {
+      "entry_label": "MACN 055",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN055.png"
+    },
+    {
+      "entry_label": "MACN 056",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN056.png"
+    },
+    {
+      "entry_label": "MACN 057",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN057.png"
+    },
+    {
+      "entry_label": "MACN 101",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN101.png"
+    },
+    {
+      "entry_label": "MACN 104",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN104.png"
+    },
+    {
+      "entry_label": "MACN 105",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN105.png"
+    },
+    {
+      "entry_label": "MACN 106",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/macnaughton2.png"
+    },
+    {
+      "entry_label": "MACN 113",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN113.png"
+    },
+    {
+      "entry_label": "MACN 114",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN114115.png"
+    },
+    {
+      "entry_label": "MACN 115",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN114115.png"
+    },
+    {
+      "entry_label": "MACN 118",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN118119.png"
+    },
+    {
+      "entry_label": "MACN 119",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN118119.png"
+    },
+    {
+      "entry_label": "MACN 120",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN120.png"
+    },
+    {
+      "entry_label": "MACN 121",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN121.png"
+    },
+    {
+      "entry_label": "MACN 122",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN122.png"
+    },
+    {
+      "entry_label": "MACN 123",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN123.png"
+    },
+    {
+      "entry_label": "MACN 124",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN124.png"
+    },
+    {
+      "entry_label": "MACN 128",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN128.png"
+    },
+    {
+      "entry_label": "MACN 129",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN129.png"
+    },
+    {
+      "entry_label": "MACN 130",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN130.png"
+    },
+    {
+      "entry_label": "MACN 131",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN131.png"
+    },
+    {
+      "entry_label": "MACN 133",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN133.png"
+    },
+    {
+      "entry_label": "MACN 135",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN135.png"
+    },
+    {
+      "entry_label": "MACN 136",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN136.png"
+    },
+    {
+      "entry_label": "MACN 202",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/macnaughton0202.png"
+    },
+    {
+      "entry_label": "MACN 226",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN226.png"
+    },
+    {
+      "entry_label": "MACN 227",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN227.png"
+    },
+    {
+      "entry_label": "MACN 228",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN228.png"
+    },
+    {
+      "entry_label": "MACN 230",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN230.png"
+    },
+    {
+      "entry_label": "MACN 231",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN231.png"
+    },
+    {
+      "entry_label": "MACN 235",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN235.png"
+    },
+    {
+      "entry_label": "MACN 237",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN237.png"
+    },
+    {
+      "entry_label": "MACN 238",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN238.png"
+    },
+    {
+      "entry_label": "MACN 239",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN239.png"
+    },
+    {
+      "entry_label": "MACN 240",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN240.png"
+    },
+    {
+      "entry_label": "MACN 345",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN345.png"
+    },
+    {
+      "entry_label": "MACN 346",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN346.png"
+    },
+    {
+      "entry_label": "MACN 348",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN348.png"
+    },
+    {
+      "entry_label": "MACN 350",
+      "entry_category": "MacNaughton",
+      "entry_image": "/schools/Guelph/images/MACN350.png"
+    },
+    {
+      "entry_label": "MACS 117",
+      "entry_category": "Macdonald Stewart",
+      "entry_image": "/schools/Guelph/images/MACS117.png"
+    },
+    {
+      "entry_label": "MACS 121",
+      "entry_category": "Macdonald Stewart",
+      "entry_image": "/schools/Guelph/images/MACS121.png"
+    },
+    {
+      "entry_label": "MACS 129",
+      "entry_category": "Macdonald Stewart",
+      "entry_image": "/schools/Guelph/images/MACS129.png"
+    },
+    {
+      "entry_label": "MCLN 101",
+      "entry_category": "Maclachlan Building",
+      "entry_image": "/schools/Guelph/images/maclachlan101.png"
+    },
+    {
+      "entry_label": "MCLN 102",
+      "entry_category": "Maclachlan Building",
+      "entry_image": "/schools/Guelph/images/maclachlan102.png"
+    },
+    {
+      "entry_label": "MCLN 103",
+      "entry_category": "Maclachlan Building",
+      "entry_image": "/schools/Guelph/images/maclachlan103.png"
+    },
+    {
+      "entry_label": "MCLN 107",
+      "entry_category": "Maclachlan Building",
+      "entry_image": "/schools/Guelph/images/maclachlan107.png"
+    },
+    {
+      "entry_label": "MINS B1",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB1.png"
+    },
+    {
+      "entry_label": "MINS B3",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB3.png"
+    },
+    {
+      "entry_label": "MINS B5",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB5.png"
+    },
+    {
+      "entry_label": "MINS B7",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB7.png"
+    },
+    {
+      "entry_label": "MINS B11",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB11.png"
+    },
+    {
+      "entry_label": "MINS B13",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB13.png"
+    },
+    {
+      "entry_label": "MINS B14",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB14.png"
+    },
+    {
+      "entry_label": "MINS B17",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB17.png"
+    },
+    {
+      "entry_label": "MINS B18",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB18.png"
+    },
+    {
+      "entry_label": "MINS B23",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB23.png"
+    },
+    {
+      "entry_label": "MINS B33",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB33.png"
+    },
+    {
+      "entry_label": "MINS B37",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB37.png"
+    },
+    {
+      "entry_label": "MINS B57",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MACB57.png"
+    },
+    {
+      "entry_label": "MINS 103",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC103.png"
+    },
+    {
+      "entry_label": "MINS 106",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC106.png"
+    },
+    {
+      "entry_label": "MINS 206",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC206.png"
+    },
+    {
+      "entry_label": "MINS 214",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC214.png"
+    },
+    {
+      "entry_label": "MINS 229",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC229.png"
+    },
+    {
+      "entry_label": "MINS 233",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC233.png"
+    },
+    {
+      "entry_label": "MINS 235",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC235.png"
+    },
+    {
+      "entry_label": "MINS 237",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC237.png"
+    },
+    {
+      "entry_label": "MINS 239",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC239.png"
+    },
+    {
+      "entry_label": "MINS 243",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC243.png"
+    },
+    {
+      "entry_label": "MINS 245",
+      "entry_category": "MacDonald Institute",
+      "entry_image": "/schools/Guelph/images/MAC245.png"
+    },
+    {
+      "entry_label": "ROZH 101",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH101.png"
+    },
+    {
+      "entry_label": "ROZH 102",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH102.png"
+    },
+    {
+      "entry_label": "ROZH 103",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH103.png"
+    },
+    {
+      "entry_label": "ROZH 104",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH104.png"
+    },
+    {
+      "entry_label": "ROZH 105",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH105.png"
+    },
+    {
+      "entry_label": "ROZH 106",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH106.png"
+    },
+    {
+      "entry_label": "ROZH 107",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH107.png"
+    },
+    {
+      "entry_label": "ROZH 108",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH108.png"
+    },
+    {
+      "entry_label": "ROZH 109",
+      "entry_category": "Rozanski Hall",
+      "entry_image": "/schools/Guelph/images/ROZH109.png"
+    },
+    {
+      "entry_label": "SCI 1101A",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1101A.png"
+    },
+    {
+      "entry_label": "SCI 1301",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1301.png"
+    },
+    {
+      "entry_label": "SCI 1301A",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1301A.png"
+    },
+    {
+      "entry_label": "SCI 1304",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1304.png"
+    },
+    {
+      "entry_label": "SCI 1305",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1305.png"
+    },
+    {
+      "entry_label": "SCI 1401",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1401.png"
+    },
+    {
+      "entry_label": "SCI 1403",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1403.png"
+    },
+    {
+      "entry_label": "SCI 1404",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1404.png"
+    },
+    {
+      "entry_label": "SCI 1405",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1405.png"
+    },
+    {
+      "entry_label": "SCI 1406",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1406.png"
+    },
+    {
+      "entry_label": "SCI 1407",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1407.png"
+    },
+    {
+      "entry_label": "SCI 1408",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1408.png"
+    },
+    {
+      "entry_label": "SCI 1409",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1409.png"
+    },
+    {
+      "entry_label": "SCI 1462",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE1462.png"
+    },
+    {
+      "entry_label": "SCI 2101",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2101.png"
+    },
+    {
+      "entry_label": "SCI 2102",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2102.png"
+    },
+    {
+      "entry_label": "SCI 2103",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2103.png"
+    },
+    {
+      "entry_label": "SCI 2104",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2104.png"
+    },
+    {
+      "entry_label": "SCI 2109",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2109.png"
+    },
+    {
+      "entry_label": "SCI 2110",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2110.png"
+    },
+    {
+      "entry_label": "SCI 2111",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2111.png"
+    },
+    {
+      "entry_label": "SCI 2112",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2112.png"
+    },
+    {
+      "entry_label": "SCI 2303",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2303.png"
+    },
+    {
+      "entry_label": "SCI 2304",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2304.png"
+    },
+    {
+      "entry_label": "SCI 2305",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2305.png"
+    },
+    {
+      "entry_label": "SCI 2306",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2306.png"
+    },
+    {
+      "entry_label": "SCI 2307",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2307.png"
+    },
+    {
+      "entry_label": "SCI 2308",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2308.png"
+    },
+    {
+      "entry_label": "SCI 2309",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2309.png"
+    },
+    {
+      "entry_label": "SCI 2310",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2310.png"
+    },
+    {
+      "entry_label": "SCI 2312",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2312.png"
+    },
+    {
+      "entry_label": "SCI 2313",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2313.png"
+    },
+    {
+      "entry_label": "SCI 2314",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2314.png"
+    },
+    {
+      "entry_label": "SCI 2315",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE2315.png"
+    },
+    {
+      "entry_label": "SCI 3101",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3101.png"
+    },
+    {
+      "entry_label": "SCI 3102A",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3102A.png"
+    },
+    {
+      "entry_label": "SCI 3103",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3103.png"
+    },
+    {
+      "entry_label": "SCI 3104",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3104.png"
+    },
+    {
+      "entry_label": "SCI 3105",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3105.png"
+    },
+    {
+      "entry_label": "SCI 3106",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3106.png"
+    },
+    {
+      "entry_label": "SCI 3108",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3108.png"
+    },
+    {
+      "entry_label": "SCI 3109",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3109.png"
+    },
+    {
+      "entry_label": "SCI 3110",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3110.png"
+    },
+    {
+      "entry_label": "SCI 3111",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3111.png"
+    },
+    {
+      "entry_label": "SCI 3112",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3112.png"
+    },
+    {
+      "entry_label": "SCI 3303",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3303.png"
+    },
+    {
+      "entry_label": "SCI 3304",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3304.png"
+    },
+    {
+      "entry_label": "SCI 3305",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3305.png"
+    },
+    {
+      "entry_label": "SCI 3306",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3306.png"
+    },
+    {
+      "entry_label": "SCI 3307",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3307.png"
+    },
+    {
+      "entry_label": "SCI 3308",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3308.png"
+    },
+    {
+      "entry_label": "SCI 3309",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3309.png"
+    },
+    {
+      "entry_label": "SCI 3310",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3310.png"
+    },
+    {
+      "entry_label": "SCI 3311",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3311.png"
+    },
+    {
+      "entry_label": "SCI 3314",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3314.png"
+    },
+    {
+      "entry_label": "SCI 3315",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3315.png"
+    },
+    {
+      "entry_label": "SCI 3316",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3316.png"
+    },
+    {
+      "entry_label": "SCI 3317",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE3317.png"
+    },
+    {
+      "entry_label": "SCI 4101",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4101.png"
+    },
+    {
+      "entry_label": "SCI 4102",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4102.png"
+    },
+    {
+      "entry_label": "SCI 4103A",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4103A.png"
+    },
+    {
+      "entry_label": "SCI 4104A",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4104A.png"
+    },
+    {
+      "entry_label": "SCI 4108",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4108.png"
+    },
+    {
+      "entry_label": "SCI 4109",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4109.png"
+    },
+    {
+      "entry_label": "SCI 4110",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4110.png"
+    },
+    {
+      "entry_label": "SCI 4111",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4111.png"
+    },
+    {
+      "entry_label": "SCI 4112",
+      "entry_category": "Science Complex",
+      "entry_image": "/schools/Guelph/images/SCIE4112.png"
+    },
+    {
+      "entry_label": "THRN 1002",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1002.png"
+    },
+    {
+      "entry_label": "THRN 1004",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1004.png"
+    },
+    {
+      "entry_label": "THRN 1006",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1006.png"
+    },
+    {
+      "entry_label": "THRN 1007",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1007.png"
+    },
+    {
+      "entry_label": "THRN 1008",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1008.png"
+    },
+    {
+      "entry_label": "THRN 1009",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1009.png"
+    },
+    {
+      "entry_label": "THRN 1012",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1012.png"
+    },
+    {
+      "entry_label": "THRN 1015",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1015.png"
+    },
+    {
+      "entry_label": "THRN 1025",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1025.png"
+    },
+    {
+      "entry_label": "THRN 1027",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1027.png"
+    },
+    {
+      "entry_label": "THRN 1200",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1200.png"
+    },
+    {
+      "entry_label": "THRN 1307",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1307.png"
+    },
+    {
+      "entry_label": "THRN 1311",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1311.png"
+    },
+    {
+      "entry_label": "THRN 1313",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1313.png"
+    },
+    {
+      "entry_label": "THRN 1314",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1314.png"
+    },
+    {
+      "entry_label": "THRN 1319",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1319.png"
+    },
+    {
+      "entry_label": "THRN 1365",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1365.png"
+    },
+    {
+      "entry_label": "THRN 1424",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1424.png"
+    },
+    {
+      "entry_label": "THRN 1425",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1425.png"
+    },
+    {
+      "entry_label": "THRN 1426",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1426.png"
+    },
+    {
+      "entry_label": "THRN 1427",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1427.png"
+    },
+    {
+      "entry_label": "THRN 1428",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1428.png"
+    },
+    {
+      "entry_label": "THRN 1430",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1430.png"
+    },
+    {
+      "entry_label": "THRN 1432",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1432.png"
+    },
+    {
+      "entry_label": "THRN 1435",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN1435.png"
+    },
+    {
+      "entry_label": "THRN 2193",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN2193.png"
+    },
+    {
+      "entry_label": "THRN 2196",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN2196.png"
+    },
+    {
+      "entry_label": "THRN 2199",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN2199.png"
+    },
+    {
+      "entry_label": "THRN 2307",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN2307.png"
+    },
+    {
+      "entry_label": "THRN 2308",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN2308.png"
+    },
+    {
+      "entry_label": "THRN 2313",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN2313.png"
+    },
+    {
+      "entry_label": "THRN 2336",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN2336.png"
+    },
+    {
+      "entry_label": "THRN 3401",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN3401.png"
+    },
+    {
+      "entry_label": "THRN 3402",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN3402.png"
+    },
+    {
+      "entry_label": "THRN 3403",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN3403.png"
+    },
+    {
+      "entry_label": "THRN 3404",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN3404.png"
+    },
+    {
+      "entry_label": "THRN 3405",
+      "entry_category": "Thornbrough",
+      "entry_image": "/schools/Guelph/images/THRN3405.png"
+    },
+    {
+      "entry_label": "WMEM",
+      "entry_category": "War Memorial Hall",
+      "entry_image": "/schools/Guelph/images/WMEM.png"
+    },
+    {
+      "entry_label": "ZAV 103",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV103.png"
+    },
+    {
+      "entry_label": "ZAV 109",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV109.png"
+    },
+    {
+      "entry_label": "ZAV 110",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV110.png"
+    },
+    {
+      "entry_label": "ZAV 111",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV111.png"
+    },
+    {
+      "entry_label": "ZAV 112",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV112.png"
+    },
+    {
+      "entry_label": "ZAV 113",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV113.png"
+    },
+    {
+      "entry_label": "ZAV 208",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV208.png"
+    },
+    {
+      "entry_label": "ZAV 210",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV210.png"
+    },
+    {
+      "entry_label": "ZAV 211",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV211.png"
+    },
+    {
+      "entry_label": "ZAV 212",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV212.png"
+    },
+    {
+      "entry_label": "ZAV 309",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV309.png"
+    },
+    {
+      "entry_label": "ZAV 310",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV310.png"
+    },
+    {
+      "entry_label": "ZAV 311",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV311.png"
+    },
+    {
+      "entry_label": "ZAV 312",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV312.png"
+    },
+    {
+      "entry_label": "ZAV 313",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV313.png"
+    },
+    {
+      "entry_label": "ZAV 314",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV314.png"
+    },
+    {
+      "entry_label": "ZAV 315",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV315.png"
+    },
+    {
+      "entry_label": "ZAV 316",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV316.png"
+    },
+    {
+      "entry_label": "ZAV 317",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV317.png"
+    },
+    {
+      "entry_label": "ZAV 318",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV318.png"
+    },
+    {
+      "entry_label": "ZAV 319",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV319.png"
+    },
+    {
+      "entry_label": "ZAV 320",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV320.png"
+    },
+    {
+      "entry_label": "ZAV 401",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV401.png"
+    },
+    {
+      "entry_label": "ZAV 402",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV402.png"
+    },
+    {
+      "entry_label": "ZAV 403",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV403.png"
+    },
+    {
+      "entry_label": "ZAV 404",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV404.png"
+    },
+    {
+      "entry_label": "ZAV 405",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV405.png"
+    },
+    {
+      "entry_label": "ZAV 406",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV406.png"
+    },
+    {
+      "entry_label": "ZAV 407",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV407.png"
+    },
+    {
+      "entry_label": "ZAV 408",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV408.png"
+    },
+    {
+      "entry_label": "ZAV 409",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV409.png"
+    },
+    {
+      "entry_label": "ZAV 410",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV410.png"
+    },
+    {
+      "entry_label": "ZAV 411",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV411.png"
+    },
+    {
+      "entry_label": "ZAV 412",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV412.png"
+    },
+    {
+      "entry_label": "ZAV 413",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV413.png"
+    },
+    {
+      "entry_label": "ZAV 414",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV414.png"
+    },
+    {
+      "entry_label": "ZAV 415",
+      "entry_category": "Zavitz Hall",
+      "entry_image": "/schools/Guelph/images/ZAV415.png"
+    }
+  ]
+}
